@@ -20,11 +20,12 @@ Packages Used -:
 - OS
 - Email Parser
 
-I have read "Sent Items" folder of all Employees.
+I have read "Sent Items" folder of all Employees from the data provided by professor.
 ```
-1- Lopped through each email and sent to Email Parser (get_payload()) in order to get the "Text Body".
-2- Stored text body of all sent emails as txt file in seperate directory. [midterm/que[1-2]/ana_[1-3]/Topic Modelling/Sent Emails].
-3- Read all sent emails txt files and stored in one LIST.
+1- Initially the data was in MIME type format.
+2- Lopped through each email and sent to Email Parser (get_payload()) in order to get the "Text Body".
+3- Stored text body of all sent emails as txt file in seperate directory. [midterm/data/Topic Modelling/Sent Emails/*.txt].
+4- Read all sent emails txt files and stored in one LIST.
 ```
 ### Step 2 (Cleaning & Preprocessing)
 Packges Used -:
