@@ -71,6 +71,10 @@ Each line is a topic with individual topic terms.
 - Topic 3 contains a lot of meeting related words, perhaps they are from emails that were sent as meeting notices.
 - Topic 4 also seems to be meeting-related but in a more casual tone and setting.
 
+#### Final Conclusion based on Analysis.
+- Core business of Enron was related to Gas, Power. Some business legalities were going on due to which lot of meeting were conducted.
+- These Legalities can be related to any thing.
+
 
 ## Analysis 2
 
