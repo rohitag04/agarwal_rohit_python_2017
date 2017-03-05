@@ -53,7 +53,7 @@ All the text documents combined is known as the corpus. To run any mathematical 
 
 ### Result of Topic Modelling
 - Result is stored in [midterm/que[1-2]/ana_[1-3]/Topic Modelling/Sent Emails/result/topicModelling.png]
-<img src ="que[1-2]/ana_[1-3]/Topic Modelling/result/topicModelling.png" />
+<img src ="que[1-2]/ana_[1-3]/Topic Modelling/result/topicModelling.PNG" />
 ```
 1- Each line is a topic with individual topic terms and weights. 
 - Topic 1 - It Can be termed as Business.
