@@ -12,5 +12,5 @@
 
 ## Analysis 1 (Topic Modelling on All Employees Sent Emails)
 - What is Topic Modelling?
-- Topics can be defined as “a repeating pattern of co-occurring terms in a corpus”.
+Topic can be defined as “a repeating pattern of co-occurring terms in a corpus”.
 
