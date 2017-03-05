@@ -8,7 +8,7 @@
 
 ## 1- Analysis on Enron Dataset
 - More Information About Enron - [Enron Scandal] (http://www.investopedia.com/updates/enron-scandal-summary/)
-- Note -: I have Done 3 types of Analysis of Enron Employee's emails.
+- Note -: I have Done 3 types of Analysis on Enron Employee's emails.
 
 ## Analysis 1 (Topic Modelling on All Employees Sent Emails)
 > What is Topic Modelling?
