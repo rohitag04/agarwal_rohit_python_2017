@@ -21,8 +21,8 @@ Packages Used -:
 - Email Parser
 - RE
 
-I have read "Sent Items" folder of all Employees.
-'''
-1- Lopped through each email and sent to Email Parser in order to get the "Text Body".
-'''
+- I have read "Sent Items" folder of all Employees.
+  '''
+  1- Lopped through each email and sent to Email Parser in order to get the "Text Body".
+  '''
 
