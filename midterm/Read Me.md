@@ -11,4 +11,6 @@
 - Note -: I have Done 3 types of Analysis of Enron Employee's emails.
 
 ## Analysis 1 (Topic Modelling on All Employees Sent Emails)
+- What is Topic Modelling?
+- Topics can be defined as “a repeating pattern of co-occurring terms in a corpus”.
 
