@@ -56,7 +56,7 @@ All the text documents combined is known as the corpus. To run any mathematical 
 - See Attached image.
 <img src ="que[1-2]/ana_[1-3]/Topic Modelling/result/topicModelling.PNG" />
 ```
-Each line is a topic with individual topic terms and weights. 
+Each line is a topic with individual topic terms. 
 - Topic 1 - It Can be termed as Business.
 - Topic 2 - It Can be termed as Legalities.
 - Topic 3 - It Can be termed as Meeting.
