@@ -23,7 +23,7 @@ Packages Used -:
 I have read "Sent Items" folder of all Employees.
 ```
 1- Lopped through each email and sent to Email Parser (get_payload()) in order to get the "Text Body".
-2- Stored text body off all sent emails as txt file in seperate directory. [midterm/que[1-2]/ana_[1-3]/Topic Modelling/Sent Emails].
+2- Stored text body of all sent emails as txt file in seperate directory. [midterm/que[1-2]/ana_[1-3]/Topic Modelling/Sent Emails].
 3- Read all sent emails txt files and stored in one LIST.
 ```
 ### Step 2 (Cleaning & Preprocessing)
@@ -52,19 +52,21 @@ All the text documents combined is known as the corpus. To run any mathematical 
 ```
 
 ### Result of Topic Modelling
-Attach picture of result
+- Result is stored in [midterm/que[1-2]/ana_[1-3]/Topic Modelling/Sent Emails/result/topicModelling.png]
+<img scr ="que[1-2]/ana_[1-3]/Topic Modelling/Sent Emails/result/topicModelling.png" />
 ```
 1- Each line is a topic with individual topic terms and weights. 
-- Topic 1 - 
-- Topic 2 - 
-- Topic 3 - 
-- Topic 4 -
+- Topic 1 - It Can be termed as Business.
+- Topic 2 - It Can be termed as Legalities.
+- Topic 3 - It Can be termed as Meeting.
+- Topic 4 - It Can be termed as Meeting in casual tone.
 ```
 
 ### Conclusion from Above Analysis
-- Topic 1 contains a lot of meeting related words, perhaps they are from emails that were sent as meeting notices.
-- Topic 2 while related to business seems to be more about the process rather than the content of the core business. It has a lot of terms relevant to business legalities.
-- Topic 3 contains words that are directly related to the core business of Enron like "gas", "power" etc.
+- Topic 1 contains words that are directly related to the core business of Enron like "gas", "power" etc.
+- Topic 2 while related to business seems to be more about the process rather than the content of the core business. 
+  It has a lot of terms relevant to business legalities.
+- Topic 3 contains a lot of meeting related words, perhaps they are from emails that were sent as meeting notices.
 - Topic 4 also seems to be meeting-related but in a more casual tone and setting.
 
 
