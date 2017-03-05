@@ -11,6 +11,18 @@
 - Note -: I have Done 3 types of Analysis of Enron Employee's emails.
 
 ## Analysis 1 (Topic Modelling on All Employees Sent Emails)
-- What is Topic Modelling?
-Topic can be defined as “a repeating pattern of co-occurring terms in a corpus”.
+> What is Topic Modelling?
+- Topic can be defined as “a repeating pattern of co-occurring terms in a corpus”.
+
+### Step 1 (Data Reading & Cleaning)
+Packages Used -:
+- GLOB
+- OS
+- Email Parser
+- RE
+
+I have read "Sent Items" folder of all Employees.
+'''
+1- Lopped through each email and sent to Email Parser in order to get the "Text Body".
+'''
 
