@@ -6,11 +6,11 @@
     - Articles Archive.
     - User Comments.
 
-## 1- Analysis on Enron Dataset
+# 1- Analysis on Enron Dataset
 - More Information About Enron - [Enron Scandal] (http://www.investopedia.com/updates/enron-scandal-summary/)
 - Note -: I have Done 3 types of Analysis of Enron Employee's emails.
 
-## Analysis 1 (Topic Modelling on All Employees Sent Emails)
+# Analysis 1 (Topic Modelling on All Employees Sent Emails)
 > What is Topic Modelling?
 - Topic can be defined as “a repeating pattern of co-occurring terms in a corpus”.
 
@@ -71,7 +71,7 @@ Each line is a topic with individual topic terms.
 - Topic 4 also seems to be meeting-related but in a more casual tone and setting.
 
 
-## Analysis 2
+# Analysis 2
 
 
 
