@@ -309,3 +309,68 @@ I have Stored the data in csv in order to make base for pie chart.
 see attched image
 <img src="que[1-2]/ana_[1-3]/Part of Speech/result/percentSpeech.png" />
 - Result is stored in [que[1-2]/ana_[1-3]/Part of speech/result/percentSpeech.png]
+
+### Conclusion from Above Analysis (we can predict)
+- NYT use majority of NOUN words in all of thier articles.
+- Second top majority is Proper Noun & Singular.
+- Third majority is Preposition & Subordinating Conjunction.
+
+## Analysis 3 (Count of +ve & -ve Words in User Comment API)
+#### File Name (Midterm_Question 2 (Analysis 3 - Count of +ve & -ve Words).ipynb) stored in midterm/que[1-2]/ana_[1-3].ipynb/]
+> In this Analysis-:
+- I will use Another NYT API related to USER Comments.
+- Will use Word Tokenization & Sent Tokenization.
+- Will use AIFNN file in order to find +ve & -ve Words Used.
+- AIFNN file contains +ve & -ve Words on score of -5 to +5.
+- Will plot -ve & +ve score on Scatter Plot.
+- Will Display Pie chart showing % of +ve & -ve words used in User Comments.
+
+### Step 1 (Data Collection & Storing)
+Packages Used -:
+- Request
+- JSON
+- OS
+
+Requested DATA from NYT User Comment API.
+```
+1- I made an API call to NYT User Comment section.
+2- I stored my key in Enviornment Variable of system.
+3- This API gives data only for 1 day at a time but I looped through 31 days in order to get response for Jan' 17.
+4- Data I found through JSON is all stored in JSON FILES in directory. [midterm/data/WordAnalysis/*.json].
+```
+
+### Step 2 (Data Preprocessing & Cleaning)
+Packages Used -:
+- RE
+- JSON
+- OS
+
+Looped through each JSON files in order to find Comments.
+```
+1- I looped thorugh all JSON files in order to get Comment Body of all users.
+2- Initailly, I stored all that list of comments in a list.
+3- I looped through list to store all that comments in text file. [\midterm\que[1-2]\ana_[1-3]\wordAnalysis\userComments/listOfComments.txt]
+```
+
+### Step 2 (+ve & -ve Score building for each sentence)
+Packages Used -:
+- NLTK
+- Word Tokenize
+- Sent Tokenize
+File Used-
+- AIFNN.txt
+
+Looped through stored text file in order to find score of sentences.
+```
+What is AIFNN.txt?
+- AFINN is a list of English words rated for valence with an integer between minus five (negative) and plus five (positive). 
+The words have been manually labeled by Finn Årup Nielsen in 2009-2011. The file is tab-separated. stored in [midterm/aifnn.txt]
+1- I looped Aifnn.txt and created on Dictionary in order to store word with his value.
+2- I read the text file and splitted each sentence using sen_tokenize.
+3- Then i Splitted all words from that sentence.
+4- Using that dictionary I found the score of each word in that sentence. This I have doen for all more than 750 Comments.
+5- I store the count of +ve & -ve in words in form of tuple.
+```
+See attched image.
+<img src="que[1-2]/ana_[1-3]/wordAnalysis/result/score.png" />
+- Result is stored in [que[1-2]/ana_[1-3]/wordAnalysis/result/score.png]
