@@ -109,6 +109,7 @@ In this step I have replaced all the tab's, newlines and spaces.
 ### Step 3 (Finding Top 10 from LIST & thier Count)
 Packges Used -:
 - Counter
+- Collections
 
 In this step I have Found the TOP to & from emp emails.
 ```
@@ -116,4 +117,22 @@ In this step I have Found the TOP to & from emp emails.
 ```
 See attached Pic.
 <img src ="que[1-2]/ana_[1-3]/Top Employee/result/count.PNG" />
+```
+After Seeing above result.
+- We can Predict -: (To Email)
+    - The top person is Richard Shapiro.
+    - He was the Vice President and lobbyist (“bribery guy”) for Enron.
+    - A lot of his emails are about handing dollars to politicians, and getting favourable laws passed.
+    - The fact that he received the most emails shows he was in touch with everything that was happening.
+    
+- (From Email)
+    - Kay Mann, He is the head of legal for Enron.
+    - The fact that she sent so many emails is ironical, seeing as how Enron was breaking every law in the book 
+      keep in mind that most employees, including Kay Mann, were innocent.
+    - Only the top executives were guilty, and most went to prison.
+    
+    
+- Funny Fact:
+   - A company with such a active legal department, and yet the executives ignored (or didn’t care) about the law at all. 
+```
 
