@@ -166,4 +166,73 @@ In this step, I read csv data from csv file and plotted on pie chart.
 - Richard Shapiro, The company Vice President. We can see 94 % of email traffic in year 2001.
 - Kay Mann, Legal Head. We can see 50% of email traffic, which shows he was not actual the part of Enron. But he was actively involved.
 
-## 2- Analysis on NYT API
+## 2- Analysis on NYT API(Archive & User Comments)
+- This Analysis is related to Articles & User Comments
+- API key is save in Environment Variable.
+- Note -: I have Done 2 Analysis on Archive & 1 Analysis on User Comments.
+
+## Analysis 1 (This Analysis is based on Categories & based on Categoried (Donal Trump(sub-categories Articles))
+#### File Name (Midterm_Question 1 (Analysis 1 - Topic Modeling).ipynb) stored in midterm/que[1-2]/ana_[1-3].ipynb/]
+
+### Step 1 (Data Preperation)
+Packages Used -:
+- JSON
+- OS
+- Requests
+
+I made an API call to NYT Archive website with month and year parameters.
+I stored a data for Jan'17.
+```
+1- Initially, I made an API call to NYT website to store data in JSON file in my local Directory.
+2- I looped through that JSON file in order to find useful information related to articles.
+3- Data I found through JSON is all stored in text files in directory. [midterm/data/Articles/*.txt].
+4- Read that Text file and stored in one list.
+```
+### Step 2 (Preprocessing of Text Files)
+Packges Used -:
+- GLOB
+- RE
+
+In this step I have read text file and find all the useful information.
+```
+1- We Know Jan'17 was the presidential month, So I looped the text file in order to find all Politics Articles.
+2- Removed all Punctuation from the List.
+3- Found top 10 articles with their count.
+```
+### Step 3 (Preparing CSV File & Plots)
+Packages Used-:
+- Matplotlib
+- CSV
+
+In this, I have stored the Ranked list in CSV file and Read that file to plot top Articles on BAR Chart. 
+
+```
+1- Created a CSV file that contains top 10 articles with Rank w.r.t count.
+2- Read CSV file in order to plot bar graph using Matplotlib.
+```
+> see picture attached. 
+<img src="/que[1-2]/ana_[1-3]/Articles/result/percentTopic.png" />
+
+
+### Result of Topic Modelling
+- Result is stored in [midterm/que[1-2]/ana_[1-3]/Topic Modelling/Sent Emails/result/topicModelling.png]
+- See Attached image.
+<img src ="que[1-2]/ana_[1-3]/Topic Modelling/result/topicModelling.PNG" />
+```
+Each line is a topic with individual topic terms. 
+- Topic 1 - It Can be termed as Business.
+- Topic 2 - It Can be termed as Legalities.
+- Topic 3 - It Can be termed as Meeting.
+- Topic 4 - It Can be termed as Meeting in casual tone.
+```
+
+### Conclusion from Above Analysis
+- Topic 1 contains words that are directly related to the core business of Enron like "gas", "power" etc.
+- Topic 2 while related to business seems to be more about the process rather than the content of the core business. 
+  It has a lot of terms relevant to business legalities.
+- Topic 3 contains a lot of meeting related words, perhaps they are from emails that were sent as meeting notices.
+- Topic 4 also seems to be meeting-related but in a more casual tone and setting.
+
+#### Final Conclusion based on Analysis.
+- Core business of Enron was related to Gas, Power. Some business legalities were going on due to which lot of meeting were conducted.
+- These Legalities can be related to any thing.
