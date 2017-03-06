@@ -84,6 +84,35 @@ Each line is a topic with individual topic terms.
 - Then will predict result on those TOP employees.
 - Then will Analyse their emails on year basis.
 
+### Step 1 (Data Preperation)
+Packages Used -:
+- GLOB
+- OS
+- Email Parser
 
+I have read "ALL" folder of all Employees from the data provided by professor.
+```
+1- Initially the data was in MIME type format.
+2- Lopped through each email and sent to Email Parser (get_payload()) in order to get the "To" & "FROM".
+3- Stored TO & FROM of all emails in two different List.
+```
 
+### Step 2 (Cleaning & Preprocessing)
+Packges Used -:
+- RE
 
+In this step I have replaced all the tab's, newlines and spaces.
+```
+1- Looped through the List to remove all stab's, newlines and spaces.
+```
+
+### Step 3 (Finding Top 10 from LIST & thier Count)
+Packges Used -:
+- Counter
+
+In this step I have Found the TOP to & from emp emails.
+```
+1- Looped through the List to find top 10 using Counter Counter(to_email_list).most_common(10).
+See attached Pic.
+<img src ="que[1-2]/ana_[1-3]/Top Employee/result/count.PNG" />
+```
