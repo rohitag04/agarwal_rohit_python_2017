@@ -11,7 +11,7 @@
 - Note -: I have Done 3 types of Analysis on Enron Employee's emails.
 
 ## Analysis 1 (Topic Modelling on All Employees Sent Emails)
-  #### File Name (Midterm_Question 1 (Analysis 1 - Topic Modeling).ipynb) stored in midterm/que[1-2]/ana_[1-3].ipynb/]
+#### File Name (Midterm_Question 1 (Analysis 1 - Topic Modeling).ipynb) stored in midterm/que[1-2]/ana_[1-3].ipynb/]
 > What is Topic Modelling?
 - Topic can be defined as “a repeating pattern of co-occurring terms in a corpus”.
 
