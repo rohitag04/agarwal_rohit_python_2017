@@ -374,3 +374,19 @@ The words have been manually labeled by Finn Årup Nielsen in 2009-2011. The fil
 See attched image.
 <img src="que[1-2]/ana_[1-3]/wordAnalysis/result/score.PNG" />
 - Result is stored in [que[1-2]/ana_[1-3]/wordAnalysis/result/score.png]
+- Above picture is showing count of +ve & -ve Score in each sentence. (Cumulative)
+
+
+### Step 3 (Data writting to CSV & Plotting)
+Packages Used -:
+- CSV
+- Matplotlib
+
+Stored the list in csv in order to process for plots.
+```
+1- I Stored each tuple of +ve & -ve words in CSV file.
+2- Read that csv file ir order to create base for scatter plot.
+```
+See attched image.
+<img src="que[1-2]/ana_[1-3]/wordAnalysis/result/posNegGraph.png" />
+- Result is stored in [que[1-2]/ana_[1-3]/wordAnalysis/result/posNegGraph.png]
