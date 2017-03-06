@@ -158,9 +158,9 @@ In this step, I read csv data from csv file and plotted on pie chart.
 2- These files are stored in [midterm/que[1-2]/ana_[1-3]/Top Employee/emp/result/*.png]
 ```
  see attached pic
-<img src ="que[1-2]/ana_[1-3]/Top Employee/result/shapiro-r.png" align="left"/> 
-<img src ="que[1-2]/ana_[1-3]/Top Employee/result/mann-k.png" align="right"/>
-> 
+<img src ="que[1-2]/ana_[1-3]/Top Employee/result/shapiro-r.png" /> 
+<img src ="que[1-2]/ana_[1-3]/Top Employee/result/mann-k.png" />
+ 
 ### Conclusion from Above Analysis & Pictures
 - As we know, The company went bankrupt in year 2001. So, it was obvious that the whole email transaction was occur in same year.
 - Richard Shapiro, The company Vice President. We can see 94 % of email traffic in year 2001.
