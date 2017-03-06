@@ -136,3 +136,27 @@ After Seeing above result.
    - A company with such a active legal department, and yet the executives ignored (or didn’t care) about the law at all. 
 ```
 
+### Step 4 (Analysis on above result)
+Packges Used -:
+- CSV
+
+In this step, I am going to analyse all emails of employee in each category w.r.t year.
+```
+1- Created List of emp name empList = ['shapiro-r', 'mann-k'].
+2- I looped thorugh each employee all folder and saved date in two different list.
+3- Date was in word format but I formatted and collected year with count of emails of each employee.
+4- I stored Year and Count in CSV format that can be find here [midterm/que[1-2]/ana_[1-3]/Top Employee/emp/*.csv]
+```
+
+### Step 5 (Reading CSV file and Plotting on Pie Chart)
+Packges Used -:
+- Matplotlib
+
+In this step, I read csv data from csv file and plotted on pie chart.
+```
+1- Used Matplotlib library to conert number in to % to plot % of emails in particulat year.
+```
+These files are stored in [midterm/que[1-2]/ana_[1-3]/Top Employee/emp/result/*.png]
+See Attached picture.
+<img src ="que[1-2]/ana_[1-3]/Top Employee/result/shapiro-r.PNG" aling="left"/> 
+<img src ="que[1-2]/ana_[1-3]/Top Employee/result/mann-k.PNG" align="right"/>
