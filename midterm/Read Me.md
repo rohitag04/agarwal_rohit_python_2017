@@ -77,7 +77,13 @@ Each line is a topic with individual topic terms.
 - These Legalities can be related to any thing.
 
 
-## Analysis 2
+## Analysis 2 (Analysis on TOP [To & FROM] emails in Enron Data Set)
+#### File Name (Midterm_Question 1 (Analysis 2 - Top Email Analysis).ipynb) stored in midterm/que[1-2]/ana_[1-3].ipynb/]
+> In this Analysis-:
+- I wil find TOP employee who recieved & sent most emails from directory of Half of Millions emails.
+- Then will predict result on those TOP employees.
+- Then will Analyse their emails on year basis.
+
 
 
 
