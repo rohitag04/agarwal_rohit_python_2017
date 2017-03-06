@@ -171,7 +171,7 @@ In this step, I read csv data from csv file and plotted on pie chart.
 - API key is save in Environment Variable.
 - Note -: I have Done 2 Analysis on Archive & 1 Analysis on User Comments.
 
-## Analysis 1 (This Analysis is based on Categories & based on Categoried (Donal Trump(sub-categories Articles))
+## Analysis 1 (This Analysis is based on Categories & based on Categories (Donal Trump(sub-categories Articles))
 #### File Name (Midterm_Question 1 (Analysis 1 - Topic Modeling).ipynb) stored in midterm/que[1-2]/ana_[1-3].ipynb/]
 
 ### Step 1 (Data Preperation)
@@ -212,12 +212,10 @@ In this, I have stored the Ranked list in CSV file and Read that file to plot to
 ```
 see picture attached. 
 <img src="que[1-2]/ana_[1-3]/Articles/result/percentTopic.png" />
+- Result is stored in [que[1-2]/ana_[1-3]/Articles/result/percentTopic.png]
 
-
-### Result of Topic Modelling
-- Result is stored in [midterm/que[1-2]/ana_[1-3]/Topic Modelling/Sent Emails/result/topicModelling.png]
-- See Attached image.
-<img src ="que[1-2]/ana_[1-3]/Topic Modelling/result/topicModelling.PNG" />
+### Analysis based on above bar graph.
+- From above we can see Category Name Politics contains more articles w.r.t other articles.
 ```
 Each line is a topic with individual topic terms. 
 - Topic 1 - It Can be termed as Business.
