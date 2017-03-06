@@ -307,5 +307,5 @@ I have Stored the data in csv in order to make base for pie chart.
 2- Looped through csv file to create base for pie chart.
 ```
 see attched image
-<img src="que[1-2]/ana_[1-3]/Articles/result/keyWordsPercent.png" />
+<img src="que[1-2]/ana_[1-3]/Part of Speech/result/percentSpeech.png" />
 - Result is stored in [que[1-2]/ana_[1-3]/Part of speech/result/percentSpeech.png]
