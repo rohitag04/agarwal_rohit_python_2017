@@ -158,4 +158,4 @@ In this step, I read csv data from csv file and plotted on pie chart.
 ```
 - These files are stored in [midterm/que[1-2]/ana_[1-3]/Top Employee/emp/result/*.png]
 - See Attached picture.
-
+<img src ="que[1-2]/ana_[1-3]/Top Employee/result/shapiro-r.png" />
