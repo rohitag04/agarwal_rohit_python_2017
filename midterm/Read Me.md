@@ -166,4 +166,4 @@ In this step, I read csv data from csv file and plotted on pie chart.
 - Richard Shapiro, The company Vice President. We can see 94 % of email traffic in year 2001.
 - Kay Mann, Legal Head. We can see 50% of email traffic, which shows he was not actual the part of Enron. But he was actively involved.
 
-## Question 2 (Analysis on NYT API's)
+## 2- Analysis on NYT API's
