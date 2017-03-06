@@ -214,15 +214,43 @@ see picture attached.
 <img src="que[1-2]/ana_[1-3]/Articles/result/percentTopic.png" />
 - Result is stored in [que[1-2]/ana_[1-3]/Articles/result/percentTopic.png]
 
-### Analysis based on above bar graph.
-- From above we can see Category Name Politics contains more articles w.r.t other articles.
+### Step 4 (DAta Collection for Sub Articles w.r.t to President Donald Trump)
+Packages Used-:
+- Same as above.
+
+In this, I have access the JSON file Headline and found all values that contains Donald Trump in it. 
+
 ```
-Each line is a topic with individual topic terms. 
-- Topic 1 - It Can be termed as Business.
-- Topic 2 - It Can be termed as Legalities.
-- Topic 3 - It Can be termed as Meeting.
-- Topic 4 - It Can be termed as Meeting in casual tone.
+1- Created a Text file and stored all keywords relate to sub category Donald.
 ```
+
+### Step 5 (Cleanind & Preprocessing & sorting on the basis of Count)
+Packages Used-:
+- RE
+
+In this, I have Read the Text file line by line. 
+
+```
+1- Read the text file line by line and removed all punctuation and tab's.
+2- created a loop in order to find unique keywords.
+3- used lambda function in order to find count and sort from top to bottom.
+4- Looped through the sorted data to assign Rank from 1st to last and stored that in csv file.
+```
+
+### Step 6 (Reading CSV & Plotting Bar chart using Matplotlib)
+Packages Used-:
+- CSV
+- Matplotlib
+
+In this, I have Plotted a Bar chart showing "Number of Articles w.r.t Donald Trump. 
+
+```
+1- Read the CSV file and created base for Matplotlib BAr chart.
+2- Plotted bar chart showing count on x-axis & sub category on y-axis.
+```
+see picture attached. 
+<img src="que[1-2]/ana_[1-3]/Articles/result/keyWordsPercent.png" />
+- Result is stored in [que[1-2]/ana_[1-3]/Articles/result/keyWordsPercent.png]
 
 ### Conclusion from Above Analysis
 - Topic 1 contains words that are directly related to the core business of Enron like "gas", "power" etc.
