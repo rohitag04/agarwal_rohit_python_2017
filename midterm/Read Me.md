@@ -155,12 +155,11 @@ Packages Used -:
 In this step, I read csv data from csv file and plotted on pie chart.
 ```
 1- Used Matplotlib library to conert number in to % to plot % of emails in particulat year.
+2- These files are stored in [midterm/que[1-2]/ana_[1-3]/Top Employee/emp/result/*.png]
 ```
-- These files are stored in [midterm/que[1-2]/ana_[1-3]/Top Employee/emp/result/*.png]
-```
+see attached pic
 <img src ="que[1-2]/ana_[1-3]/Top Employee/result/shapiro-r.png" align="left"/> 
 <img src ="que[1-2]/ana_[1-3]/Top Employee/result/mann-k.png" align="right"/>
-```
 
 ### Conclusion from Above Analysis & Pictures
 - As we know, The company went bankrupt in year 2001. So, it was obvious that the whole email transaction was occur in same year.
