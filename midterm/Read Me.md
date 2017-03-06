@@ -395,3 +395,8 @@ See attched image.
 - Now, In next step I have plotted over all count of +ve & -ve Words on pie chart.
 See attched image.
 <img src="que[1-2]/ana_[1-3]/wordAnalysis/result/percentWord.png" />
+
+### Conclusion from Above Analysis (we can predict)
+- In january User use more -ve words w.r.t +ve words.
+- The count of -ve word is more may be is vary month to month.
+- After seeing scatter plot I can say for every sentence count of -ve words is more than +ve words.
