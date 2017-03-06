@@ -98,7 +98,7 @@ I have read "ALL" folder of all Employees from the data provided by professor.
 ```
 
 ### Step 2 (Cleaning & Preprocessing)
-Packges Used -:
+Packages Used -:
 - RE
 
 In this step I have replaced all the tab's, newlines and spaces.
@@ -107,7 +107,7 @@ In this step I have replaced all the tab's, newlines and spaces.
 ```
 
 ### Step 3 (Finding Top 10 from LIST & thier Count)
-Packges Used -:
+Packages Used -:
 - Counter
 - Collections
 
@@ -137,7 +137,7 @@ After Seeing above result.
 ```
 
 ### Step 4 (Analysis on above result)
-Packges Used -:
+Packages Used -:
 - CSV
 
 In this step, I am going to analyse all emails of employee in each category w.r.t year.
@@ -149,7 +149,7 @@ In this step, I am going to analyse all emails of employee in each category w.r.
 ```
 
 ### Step 5 (Reading CSV file and Plotting on Pie Chart)
-Packges Used -:
+Packages Used -:
 - Matplotlib
 
 In this step, I read csv data from csv file and plotted on pie chart.
