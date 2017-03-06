@@ -156,7 +156,7 @@ In this step, I read csv data from csv file and plotted on pie chart.
 ```
 1- Used Matplotlib library to conert number in to % to plot % of emails in particulat year.
 ```
-These files are stored in [midterm/que[1-2]/ana_[1-3]/Top Employee/emp/result/*.png]
+- These files are stored in [midterm/que[1-2]/ana_[1-3]/Top Employee/emp/result/*.png]
 - See Attached picture.
 #### Richard Shapiro <img src ="que[1-2]/ana_[1-3]/Top Employee/result/shapiro-r.png" align="left"/> 
 #### Kay Mann <img src ="que[1-2]/ana_[1-3]/Top Employee/result/mann-k.png" align="left"/>
