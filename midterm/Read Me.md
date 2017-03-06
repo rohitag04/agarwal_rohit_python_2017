@@ -163,6 +163,6 @@ In this step, I read csv data from csv file and plotted on pie chart.
 
 ### Conclusion from Above Analysis & Pictures
 - As we know, The company went bankrupt in year 2001. So, it was obvious that the whole email transaction was occur in same year.
-- Richard Shapiro, The company Vice President in year 2001. There was 94 % of email traffic.
-- Kay Mann, Legal Head in year 2001. There was 50% of email traffic which shows Legal Head was not actual the part of Enron but In 2001    He was actively involved.
+- Richard Shapiro, The company Vice President. We can see 94 % of email traffic in year 2001.
+- Kay Mann, Legal Head. We can see 50% of email traffic, which shows he was not actual the part of Enron. But he was actively involved.
 
