@@ -253,6 +253,7 @@ see picture attached.
 - Result is stored in [que[1-2]/ana_[1-3]/Articles/result/keyWordsPercent.png]
 
 ### Conclusion from Above Analysis
+- NYT Posted total of 5206 Articles in JAN'17 out which.
 - NYT Posted majority of articles related to Politics in Jan'17.
 - Out of which major was related to Donald Trump.
 - The Top most sub category was "UNited states and Politics" & Second Top was Presidential Election.
@@ -263,3 +264,48 @@ see picture attached.
 - I wil find Access json file in order to find all lead paragraphs.
 - Will use NLTK wordnet(POS TAGS) in order to find top 10 Part of speech.
 - Will Plot all part of speech on pie chart for distribution.
+
+### Step 1 (Data Collection & Storing)
+Packages Used -:
+- Request
+- JSON
+- OS
+
+I have read JSON file that I have dumped in above Analysis in order to find all Lead Paragraphs of Jan' 17 Articles..
+```
+1- I looped through that JSON file in order to find all 5206 Lead Paraghaph of articles.
+2- Data I found through JSON is all stored in text files in directory. [midterm/data/Part of Speech/*.txt].
+3- Read that Text file and stored in one list.
+```
+
+### Step 2 (Pre Processing & Cleaning)
+Packages Used -:
+- RE
+- NLTK word_tokenization
+- WORNET
+- Collection
+
+I have read Text file line by line in order to clean & store in list.
+```
+1- Looped through the text file in order to remove all Punctuations.
+2- Used NLTK work Tokenize in order to divides a string into substrings by splitting on the specified string (defined in subclasses).
+using word_tokenize(data).
+3- Used NLTK POS TAG in order to processes a sequence of words, and attaches a part of speech tag to each word using nltk.pos_tag(words).
+4- Used Counter in order to find the count of individual Part of Speech.
+5- USed Collection in order to find TOP 10.
+```
+
+
+### Step 3 (CSV & Plotting Pie Chart)
+Packages Used -:
+- CSV
+- MATPLOTLIB
+
+I have Stored the data in csv in order to make base for pie chart.
+```
+1- Stored the data in csv file with label, count and explode factor.
+2- Looped through csv file to create base for pie chart.
+```
+see attched image
+<img src="que[1-2]/ana_[1-3]/Articles/result/keyWordsPercent.png" />
+- Result is stored in [que[1-2]/ana_[1-3]/Part of speech/result/percentSpeech.png]
