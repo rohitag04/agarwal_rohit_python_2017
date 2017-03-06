@@ -372,5 +372,5 @@ The words have been manually labeled by Finn Årup Nielsen in 2009-2011. The fil
 5- I store the count of +ve & -ve in words in form of tuple.
 ```
 See attched image.
-<img src="que[1-2]/ana_[1-3]/wordAnalysis/result/score.png" />
+<img src="que[1-2]/ana_[1-3]/wordAnalysis/result/score.PNG" />
 - Result is stored in [que[1-2]/ana_[1-3]/wordAnalysis/result/score.png]
