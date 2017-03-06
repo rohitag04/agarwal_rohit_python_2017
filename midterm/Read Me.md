@@ -113,6 +113,7 @@ Packges Used -:
 In this step I have Found the TOP to & from emp emails.
 ```
 1- Looped through the List to find top 10 using Counter Counter(to_email_list).most_common(10).
+```
 See attached Pic.
 <img src ="que[1-2]/ana_[1-3]/Top Employee/result/count.PNG" />
-```
+
