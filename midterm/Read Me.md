@@ -375,6 +375,7 @@ See attched image.
 <img src="que[1-2]/ana_[1-3]/wordAnalysis/result/score.PNG" />
 - Result is stored in [que[1-2]/ana_[1-3]/wordAnalysis/result/score.png]
 - Above picture is showing count of +ve & -ve Score in each sentence. (Cumulative)
+- Means in one sentence the score of +ve word is x and -ve word is y.
 
 
 ### Step 3 (Data writting to CSV & Plotting)
@@ -390,3 +391,7 @@ Stored the list in csv in order to process for plots.
 See attched image.
 <img src="que[1-2]/ana_[1-3]/wordAnalysis/result/posNegGraph.png" />
 - Result is stored in [que[1-2]/ana_[1-3]/wordAnalysis/result/posNegGraph.png]
+- The above scatter is showing sentences w.r.t +ve & -ve words.
+- Now, In next step I have plotted over all count of +ve & -ve Words on pie chart.
+See attched image.
+<img src="que[1-2]/ana_[1-3]/wordAnalysis/result/percentWord.png" />
