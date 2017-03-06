@@ -253,12 +253,13 @@ see picture attached.
 - Result is stored in [que[1-2]/ana_[1-3]/Articles/result/keyWordsPercent.png]
 
 ### Conclusion from Above Analysis
-- Topic 1 contains words that are directly related to the core business of Enron like "gas", "power" etc.
-- Topic 2 while related to business seems to be more about the process rather than the content of the core business. 
-  It has a lot of terms relevant to business legalities.
-- Topic 3 contains a lot of meeting related words, perhaps they are from emails that were sent as meeting notices.
-- Topic 4 also seems to be meeting-related but in a more casual tone and setting.
+- NYT Posted majority of articles related to Politics in Jan'17.
+- Out of which major was related to Donald Trump.
+- The Top most sub category was "UNited states and Politics" & Second Top was Presidential Election.
 
-#### Final Conclusion based on Analysis.
-- Core business of Enron was related to Gas, Power. Some business legalities were going on due to which lot of meeting were conducted.
-- These Legalities can be related to any thing.
+## Analysis 2 (Analysis to find the Top 10 Part of Speech in Article Lead Paragraph)
+#### File Name (Midterm_Question 1 (Analysis 2 - Part od Speech).ipynb) stored in midterm/que[1-2]/ana_[1-3].ipynb/]
+> In this Analysis-:
+- I wil find Access json file in order to find all lead paragraphs.
+- Will use NLTK wordnet(POS TAGS) in order to find top 10 Part of speech.
+- Will Plot all part of speech on pie chart for distribution.
