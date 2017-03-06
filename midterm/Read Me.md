@@ -210,8 +210,8 @@ In this, I have stored the Ranked list in CSV file and Read that file to plot to
 1- Created a CSV file that contains top 10 articles with Rank w.r.t count.
 2- Read CSV file in order to plot bar graph using Matplotlib.
 ```
-> see picture attached. 
-<img src="/que[1-2]/ana_[1-3]/Articles/result/percentTopic.png" />
+see picture attached. 
+<img src="que[1-2]/ana_[1-3]/Articles/result/percentTopic.png" />
 
 
 ### Result of Topic Modelling
