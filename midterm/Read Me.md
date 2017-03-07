@@ -1,7 +1,3 @@
-```diff
-+ this will be highlighted in green
-- this will be highlighted in red
-```
 <img src="icon.png" align="right" />
 # Midterm Project <img src="python.png" height="54px" width="200px" />
 > This Project contains Analysis of two Data Sets.
@@ -179,7 +175,9 @@ In this step, I read csv data from csv file and plotted on pie chart.
 #### Data access - Enron Mail Dir.
 #### Result Folder - [/midterm/que[1-2]/ana_[1-3]/Top Conversation/result/]
 #### File Name (Midterm_Question 1 (Analysis 3 - Top Communication).ipynb) stored in midterm/que[1-2]/ana_[1-3].ipynb/]
-## Note- In this Analysis I also analysed all conversation of 150 emp which took 7 Hours to run one loop. I am attaching that pynb and csv file inside midterm folder.
+```diff
+- In this Analysis I also analysed all conversation of 150 employee which took 7 Hours to run one loop. I am attaching that pynb and csv file inside midterm folder. I request you to please have a look. But the same is done for only 4 employee below.
+```
 > In this Analysis-:
 - This is based on above analysis in this I have taken TOP 2 (TO & From) employees and target is find who did the 
  most communication with whom.
