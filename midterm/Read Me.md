@@ -11,6 +11,8 @@
 - Note -: I have Done 3 types of Analysis on Enron Employee's emails.
 
 ## Analysis 1 (Topic Modelling on All Employees Sent Emails)
+#### Data access - Enron Mail Dir. & Sent Emails(Text files) Unable to uplaod folder (50 MB) due to memory Exceptio.
+#### Result Folder - [midterm/que[1-2]/ana_[1-3]/Topic Modelling/result/]
 #### File Name (Midterm_Question 1 (Analysis 1 - Topic Modeling).ipynb) stored in midterm/que[1-2]/ana_[1-3].ipynb/]
 > What is Topic Modelling?
 - Topic can be defined as “a repeating pattern of co-occurring terms in a corpus”.
@@ -78,6 +80,8 @@ Each line is a topic with individual topic terms.
 
 
 ## Analysis 2 (Analysis on TOP [To & FROM] emails in Enron Data Set)
+#### Data access - Enron Mail Dir.
+#### Result Folder - [midterm/que[1-2]/ana_[1-3]/Top Employee/]
 #### File Name (Midterm_Question 1 (Analysis 2 - Top Email Analysis).ipynb) stored in midterm/que[1-2]/ana_[1-3].ipynb/]
 > In this Analysis-:
 - I wil find TOP employee who recieved & sent most emails from directory of Half of Millions emails.
@@ -167,6 +171,8 @@ In this step, I read csv data from csv file and plotted on pie chart.
 - Kay Mann, Legal Head. We can see 50% of email traffic, which shows he was not actual the part of Enron. But he was actively involved.
 
 ## Analysis 3 (This Analysis is based on Above Analysis.)
+#### Data access - Enron Mail Dir.
+#### Result Folder - [/midterm/que[1-2]/ana_[1-3]/Top Conversation/result/]
 #### File Name (Midterm_Question 1 (Analysis 3 - Top Communication).ipynb) stored in midterm/que[1-2]/ana_[1-3].ipynb/]
 > In this Analysis-:
 - This is based on above analysis in this I have taken TOP 2 (TO & From) employees and target is find who did the 
@@ -242,6 +248,8 @@ See attached Image-:
 - Note -: I have Done 2 Analysis on Archive & 1 Analysis on User Comments.
 
 ## Analysis 1 (This Analysis is based on Categories & based on Categories (Donal Trump(sub-categories Articles))
+#### Data access folder - [/midterm/data/Archive/jsonData/]
+#### Result Folder - [/midterm/que[1-2]/ana_[1-3]/Articles/]
 #### File Name (Midterm_Question 1 (Analysis 1 - Topic Modeling).ipynb) stored in midterm/que[1-2]/ana_[1-3].ipynb/]
 
 ### Step 1 (Data Preperation)
@@ -329,6 +337,8 @@ see picture attached.
 - The Top most sub category was "UNited states and Politics" & Second Top was Presidential Election.
 
 ## Analysis 2 (Analysis to find the Top 10 Part of Speech in Article Lead Paragraph)
+#### Data access folder - [/midterm/data/Archive/jsonData/]
+#### Result Folder - [/midterm/que[1-2]/ana_[1-3]/Part of Speech/]
 #### File Name (Midterm_Question 1 (Analysis 2 - Part od Speech).ipynb) stored in midterm/que[1-2]/ana_[1-3].ipynb/]
 > In this Analysis-:
 - I wil find Access json file in order to find all lead paragraphs.
@@ -386,6 +396,8 @@ see attched image
 - Third majority is Preposition & Subordinating Conjunction.
 
 ## Analysis 3 (Count of +ve & -ve Words in User Comment API)
+#### Data access folder - [/midterm/data/community/Json Data/] & [/midterm/data/AIFNN.txt]
+#### Result Folder - [/midterm/que[1-2]/ana_[1-3]/wordAnalysis/]
 #### File Name (Midterm_Question 2 (Analysis 3 - Count of +ve & -ve Words).ipynb) stored in midterm/que[1-2]/ana_[1-3].ipynb/]
 > In this Analysis-:
 - I will use Another NYT API related to USER Comments.
