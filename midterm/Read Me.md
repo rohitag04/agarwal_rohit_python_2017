@@ -183,6 +183,7 @@ In this step, I read csv data from csv file and plotted on pie chart.
 + CSV file [midterm / que[1-2] / conversation.csv]
 + I request you to please have a look. But the same is done for only 4 employee below.
 + CSV file explain sender 1 sent number of emails to sender 2.
++ Example - Lay sent 508 emails to Shapiro.
 ```
 > In this Analysis-:
 - This is based on above analysis in this I have taken TOP 2 (TO & From) employees and target is find who did the 
