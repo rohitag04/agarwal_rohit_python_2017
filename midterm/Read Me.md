@@ -177,11 +177,12 @@ In this step, I read csv data from csv file and plotted on pie chart.
 #### File Name (Midterm_Question 1 (Analysis 3 - Top Communication).ipynb) stored in midterm/que[1-2]/ana_[1-3].ipynb/]
 ```diff
 + NOTE-:
-+ In this Analysis I also analysed all conversation of 150 employee w.r.t to half of million emails, 
++ In this Analysis I also analysed all conversation of "146" employee w.r.t to half of million emails, 
 + which took "7 Hours" to run one loop. 
 + I am attaching that pynb and csv file inside midterm folder. [midterm /que[1-2] / top conversation enron all emp.ipynb ]
 + CSV file [midterm / que[1-2] / conversation.csv]
 + I request you to please have a look. But the same is done for only 4 employee below.
++ CSV file explain sender 1 sent number of emails to sender 2.
 ```
 > In this Analysis-:
 - This is based on above analysis in this I have taken TOP 2 (TO & From) employees and target is find who did the 
