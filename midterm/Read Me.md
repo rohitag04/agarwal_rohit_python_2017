@@ -204,13 +204,20 @@ In this step I have Found the TOP person with related to 4 given names and thier
 1- Looped through the List to find top 1 using Counter Counter(to_email_list).most_common(1).
 ```
 See attached Pic.
-<img src ="que[1-2]/ana_[1-3]/Top Employee/result/count.PNG" />
+<img src ="que[1-2]/ana_[1-3]/Top Conversation/result/conver.PNG" />
+<img src="/que[1-2]/ana_[1-3]/Top Conversation/result/percent.png" />
 After Seeing above result.
-- We can Predict -: (To Email)
-    - The top person is Richard Shapiro communicates with .
-    - He was the Vice President and lobbyist (“bribery guy”) for Enron.
-    - A lot of his emails are about handing dollars to politicians, and getting favourable laws passed.
-    - The fact that he received the most emails shows he was in touch with everything that was happening.
+- We can Predict -: 
+  - From above Bar Graph & Pie Chart We can say.
+  - Shapiro sent Steven around 477 emails which is 4.8%
+  - Dasovich sent Shapiro around 3000 emails which is 29.6%
+  - Mann sent Suzanne around 1600 emails which is 16.2
+  - kaminski sent vkaminski around 4500 emails which is 49.4%
+  
+ #### Final Conclusion 
+- As we know Shapiro recieved most number of emails in organization which was around 17000 from above 
+  we can see around 20% was sent from   Dasovich.
+- Mann recieved most emails but she was actively sending to other person and she was in TOP communication with Suzanne.
     
     
 ## Note-: In this Analysis I also did Solo Word Analysis on Enron CEO (Kennath Lay)
@@ -219,7 +226,7 @@ After Seeing above result.
 - I gone through Data prepration til Data cleaning.
 
 See attached Image-:
-
+<img src="/que[1-2]/ana_[1-3]/Top Conversation/result/kennathLay.PNG" />
 #### Conclusion on Kennath Lay Analysis-:
 - The Above result showing Top 50 words that was used in Kenneth Lay emails.
 - After seeing this we can predict:
