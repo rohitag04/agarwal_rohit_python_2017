@@ -6,7 +6,7 @@
     - Articles Archive.
     - User Comments.
 
-## 1- Analysis on Enron Dataset
+# 1- Analysis on Enron Dataset
 - More Information About Enron - [Enron Scandal] (http://www.investopedia.com/updates/enron-scandal-summary/)
 - Note -: I have Done 3 types of Analysis on Enron Employee's emails.
 
@@ -236,7 +236,7 @@ See attached Image-:
     - The word "Meeting" is used more than 2000 times which shows Kenneth was the busy man.
 
 
-## 2- Analysis on NYT API(Archive & User Comments)
+# 2- Analysis on NYT API(Archive & User Comments)
 - This Analysis is related to Articles & User Comments
 - API key is save in Environment Variable.
 - Note -: I have Done 2 Analysis on Archive & 1 Analysis on User Comments.
