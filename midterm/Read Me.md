@@ -11,7 +11,8 @@
 - Note -: I have Done 3 types of Analysis on Enron Employee's emails.
 
 ## Analysis 1 (Topic Modelling on All Employees Sent Emails)
-#### Data access - Enron Mail Dir. & Sent Emails(Text files) Unable to uplaod folder (50 MB) due to memory Exceptio.
+#### Data access - Enron Mail Dir. & [/midterm/data/Topic Modeling.7z] & [/midterm/data/Topic Modeling/Sent Emails/](All sents mails files are zip in Topic Modeling.7z)
+### Note- This Topic Modeling.7z contains all my sent emails extracted from maildir. I have done analysis on this sent extracted sent emails.
 #### Result Folder - [midterm/que[1-2]/ana_[1-3]/Topic Modelling/result/]
 #### File Name (Midterm_Question 1 (Analysis 1 - Topic Modeling).ipynb) stored in midterm/que[1-2]/ana_[1-3].ipynb/]
 > What is Topic Modelling?
