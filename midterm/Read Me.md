@@ -205,7 +205,7 @@ In this step I have Found the TOP person with related to 4 given names and thier
 ```
 See attached Pic.
 <img src ="que[1-2]/ana_[1-3]/Top Conversation/result/conver.PNG" />
-<img src="/que[1-2]/ana_[1-3]/Top Conversation/result/percent.png" />
+<img src="que[1-2]/ana_[1-3]/Top Conversation/result/percent.png" />
 After Seeing above result.
 - We can Predict -: 
   - From above Bar Graph & Pie Chart We can say.
@@ -226,7 +226,7 @@ After Seeing above result.
 - I gone through Data prepration til Data cleaning.
 
 See attached Image-:
-<img src="/que[1-2]/ana_[1-3]/Top Conversation/result/kennathLay.PNG" />
+<img src="que[1-2]/ana_[1-3]/Top Conversation/result/kennathLay.PNG" />
 #### Conclusion on Kennath Lay Analysis-:
 - The Above result showing Top 50 words that was used in Kenneth Lay emails.
 - After seeing this we can predict:
