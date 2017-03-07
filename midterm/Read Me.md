@@ -166,6 +166,72 @@ In this step, I read csv data from csv file and plotted on pie chart.
 - Richard Shapiro, The company Vice President. We can see 94 % of email traffic in year 2001.
 - Kay Mann, Legal Head. We can see 50% of email traffic, which shows he was not actual the part of Enron. But he was actively involved.
 
+## Analysis 3 (This Analysis is based on Above Analysis.)
+#### File Name (Midterm_Question 1 (Analysis 3 - Top Communication).ipynb) stored in midterm/que[1-2]/ana_[1-3].ipynb/]
+> In this Analysis-:
+- This is based on above analysis in this I have taken TOP 2 (TO & From) employees and target is find who did the 
+ most communication with whom.
+- Then will plot the number on bar graph in order to show top communication.
+- Then will Analyse about them.
+
+### Step 1 (Data Preperation)
+Packages Used -:
+- GLOB
+- OS
+- Email Parser
+
+I have read "ALL" folder of all Employees where the condition meet (Give me 'TO' where from is ['shapiro', 'dasovich', 'mann', 'kaminski'] these 4 is predicted on above analysis.).
+```
+1- Initially the data was in MIME type format.
+2- Lopped through each email and sent to Email Parser (get_payload()) in order to get the "To" & "FROM".
+3- Stored TO & FROM of all emails in two different List.
+```
+
+### Step 2 (Cleaning & Preprocessing)
+Packages Used -:
+- RE
+
+In this step I have replaced all the tab's, newlines and spaces.
+```
+1- Looped through the List to remove all tab's, newlines and spaces.
+```
+
+### Step 3 (Finding Top 1 from LIST of all 4 & thier Count)
+Packages Used -:
+- Counter
+- Collections
+
+In this step I have Found the TOP person with related to 4 given names and thier count.
+```
+1- Looped through the List to find top 1 using Counter Counter(to_email_list).most_common(1).
+```
+See attached Pic.
+<img src ="que[1-2]/ana_[1-3]/Top Employee/result/count.PNG" 
+
+After Seeing above result.
+- We can Predict -: (To Email)
+    - The top person is Richard Shapiro communicates with .
+    - He was the Vice President and lobbyist (“bribery guy”) for Enron.
+    - A lot of his emails are about handing dollars to politicians, and getting favourable laws passed.
+    - The fact that he received the most emails shows he was in touch with everything that was happening.
+
+
+
+
+
+Note-: In this Analysis I also did Solo Word Analysis on Enron CEO (Kennath Lay)
+- Word Analysis is basically finding out the top words used by that person.
+- I read all the emails of Kennath Lay in order to find word frequency.
+- I gone through Data prepration til Data cleaning.
+
+See attached Image-:
+
+
+
+
+
+
+
 ## 2- Analysis on NYT API(Archive & User Comments)
 - This Analysis is related to Articles & User Comments
 - API key is save in Environment Variable.
@@ -181,7 +247,7 @@ Packages Used -:
 - Requests
 
 I made an API call to NYT Archive website with month and year parameters.
-I stored a data for Jan'17.
+I stored a data for Jan17.
 ```
 1- Initially, I made an API call to NYT website to store data in JSON file in my local Directory.
 2- I looped through that JSON file in order to find useful information related to articles.
@@ -195,7 +261,7 @@ Packges Used -:
 
 In this step I have read text file and find all the useful information.
 ```
-1- We Know Jan'17 was the presidential month, So I looped the text file in order to find all Politics Articles.
+1- We Know Jan 17 was the presidential month, So I looped the text file in order to find all Politics Articles.
 2- Removed all Punctuation from the List.
 3- Found top 10 articles with their count.
 ```
@@ -211,7 +277,7 @@ In this, I have stored the Ranked list in CSV file and Read that file to plot to
 2- Read CSV file in order to plot bar graph using Matplotlib.
 ```
 see picture attached. 
-<img src="que[1-2]/ana_[1-3]/Articles/result/percentTopic.png" />
+<img src= "que[1-2]/ana_[1-3]/Articles/result/percentTopic.png" />
 - Result is stored in [que[1-2]/ana_[1-3]/Articles/result/percentTopic.png]
 
 ### Step 4 (DAta Collection for Sub Articles w.r.t to President Donald Trump)
