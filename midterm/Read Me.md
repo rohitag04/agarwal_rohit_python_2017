@@ -11,7 +11,7 @@
 - Note -: I have Done 3 types of Analysis on Enron Employee's emails.
 
 ## Analysis 1 (Topic Modelling on All Employees Sent Emails)
-#### Data access - Enron Mail Dir. & [/midterm/data/Topic Modeling.7z] & [/midterm/data/Topic Modeling/Sent Emails/](All sents mails files are zip in Topic Modeling.7z)
+#### Data access - Enron Mail Dir. & [/midterm/data/Topic Modeling.7z] & [/midterm/data/Topic Modeling/Sent Emails/] | [All sents mails files are zip in Topic Modeling.7z]
 ### Note- This Topic Modeling.7z contains all my sent emails extracted from maildir. I have done analysis on this sent extracted sent emails.
 #### Result Folder - [midterm/que[1-2]/ana_[1-3]/Topic Modelling/result/]
 #### File Name (Midterm_Question 1 (Analysis 1 - Topic Modeling).ipynb) stored in midterm/que[1-2]/ana_[1-3].ipynb/]
@@ -251,7 +251,7 @@ See attached Image-:
 ## Analysis 1 (This Analysis is based on Categories & based on Categories (Donal Trump(sub-categories Articles))
 #### Data access folder - [/midterm/data/Archive/jsonData/]
 #### Result Folder - [/midterm/que[1-2]/ana_[1-3]/Articles/]
-#### File Name (Midterm_Question 1 (Analysis 1 - Topic Modeling).ipynb) stored in midterm/que[1-2]/ana_[1-3].ipynb/]
+#### File Name (Midterm_Question 2 (Analysis 1 - Articles & SubArticles).ipynb) stored in midterm/que[1-2]/ana_[1-3].ipynb/]
 
 ### Step 1 (Data Preperation)
 Packages Used -:
@@ -340,7 +340,7 @@ see picture attached.
 ## Analysis 2 (Analysis to find the Top 10 Part of Speech in Article Lead Paragraph)
 #### Data access folder - [/midterm/data/Archive/jsonData/]
 #### Result Folder - [/midterm/que[1-2]/ana_[1-3]/Part of Speech/]
-#### File Name (Midterm_Question 1 (Analysis 2 - Part od Speech).ipynb) stored in midterm/que[1-2]/ana_[1-3].ipynb/]
+#### File Name (Midterm_Question 2 (Analysis 2 - Part of Speech).ipynb) stored in midterm/que[1-2]/ana_[1-3].ipynb/]
 > In this Analysis-:
 - I wil find Access json file in order to find all lead paragraphs.
 - Will use NLTK wordnet(POS TAGS) in order to find top 10 Part of speech.
