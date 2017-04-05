@@ -99,10 +99,10 @@ dfMovies['Awards Nominated'] = dfMovies['Awards Nominated'] + dfMovies['Oscar No
 dfMovies['Awards Wins'] = dfMovies['Awards Wins'] + dfMovies['Oscar Wins'] + dfMovies['Primetime Emmys Wins'] + dfMovies['Golden Globe Wins'] + dfMovies['BAFTA Wins']
 
 
-# In[12]:
+# In[14]:
 
 #columns to be printed on the console
-columns = ['Awards', 'Awards Nominated', 'Awards Wins', 'Oscar Nominations', 'Oscar Wins', 'Primetime Emmys Nominations', 'Primetime Emmys Wins', 'Golden Globe Nominations', 'Golden Globe Wins', 'BAFTA Nominations', 'BAFTA Wins']
+columns = ['Awards', 'Awards Wins', 'Awards Nominated', 'Oscar Nominations', 'Oscar Wins', 'Primetime Emmys Nominations', 'Primetime Emmys Wins', 'Golden Globe Nominations', 'Golden Globe Wins', 'BAFTA Nominations', 'BAFTA Wins']
 
 
 # In[13]:
