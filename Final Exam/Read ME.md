@@ -19,7 +19,7 @@ It seems commonsensical that it must have some impact, since weather is a ubiqui
 
 > __"Ultimately it's an interesting question."__
 
-__As it's an Interesting Question. Let's find a relation between them.__
+__As it's an Interesting Question. Let's find How Weather afect Renewable & Non Renewable Energy.__
 
 ## 2 Data Collection
 I have collected Historical Data for year 2012-2017 using two different API's.
@@ -32,9 +32,9 @@ Packages Used -:
 
 __API 1__
 
-1- Wunderground API (Weather Forecast API)
+1- Wunderground (Weather Forecast API)
 
-  - Used wunderground Historical Data API for New York.
+  - Used Wunderground Historical Data API for New York.
   - New York in particular because Stock Exchange is located there.
   - Collected Data on daily basis from year 2012-2017 (April).
   - Data is collected in form of JSON.
@@ -49,7 +49,36 @@ __API 1__
   - Data is only collected for New York City.
   
  **Source Code:** https://github.com/JostineHo/mememoji_api
+ 
  **Data Source:** https://github.com/JostineHo/mememoji_api
+ 
+ 
+ __API 2__
+
+1- Quandl (Stock Exchange API)
+
+  - Used Quandl Historical Data API for Stocks of major compnaies (OIL & Solar).
+  - OIL & SOLAR in particular because idea is impact on renewable & non renewable energies.
+  - Collected Data from year 2012-2017 (April).
+  - Data is collected in form of JSON.
+  - Naming Convention is given on compnay code basis. So, Every file is unique.
+  - I have created one function that made an API call inside loop and download all Data in json.
+  
+  ##### NOTE- 
+  - API key is save in Environment Variable.
+  - Data is only collected for OIL & SOLAR.
+  
+ **Source Code:** https://github.com/JostineHo/mememoji_api
+ 
+ **Data Source:** https://github.com/JostineHo/mememoji_api
+ 
+ 
+ __Data for Wind Energy Company__
+ 
+  - As I haven't found data for WIND ENERGY Company so I have downloaded CSV file from Yahoo Finance Website.
+  
+   **Data Source:** https://github.com/JostineHo/mememoji_api
+
 
 
 
