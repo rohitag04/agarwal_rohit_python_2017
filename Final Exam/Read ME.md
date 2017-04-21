@@ -109,4 +109,15 @@ __Quandl API__.
    **Data Source:** [VWS.csv](https://github.com/rohitag04/agarwal_rohit_python_2017/edit/master/Final%20Exam/extra/VWS.csv)
    
    **Source Code:** https://github.com/JostineHo/mememoji_api
+   
+   ## 4. Analysis 1
+#### Topic - Impact of Weather on Energy Sources.
+
+Packages Used -:
+- OS
+- Panda
+- Plotly Offline
+- iPlots
+- Graph Objects
+
 
