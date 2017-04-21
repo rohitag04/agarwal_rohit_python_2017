@@ -204,7 +204,33 @@ Packages Used -:
 #### Assumption 2-:
   - There should be a increase in the price of Wind Energy.
     
-#### Now, Does Weather affects Wind Energy Generation
+#### Now, Does Weather affects Wind Energy Generation.
 
+#### Step 5 (Impact on Wind Energy (Renewable))
+#### Does Global Warming affect Wind Energy Generation?
+
+  - Used the weather Data Frame.
+  - Read Wind Energy Company Stock name VWS (Vestas Wind).
+  - Merged two dataframes outerly on Date Columns.
+  - Removed all NAN values in order to keep clean file.
+  - Analysed only for year 2012 & 2016.
+  - Used Double Y axis plot in order to show Weather & Stock.
+  
+  <img src="analysis/ana_[1-3]/Analysis 1/Weather VS WIND Stock.png" />
+  
+#### Assumptions -:
+### Here I can see a Huge Huge difference in stock price.
+  - We can see the stock price is alomost increased 80 times from 2012 to 2016.
+  - Which indicates Global Warming is directly propotional to Renewable energy.
+    
+## Final Conclusion
+  - Weather Plays a major role in stock price.
+  - As Annual mean of weather is increasing every year.
+  - Global Warming is also Increasing.
+  - At the same time uses of Renewable Energy is also increasing Annualy.
+  - Non Renewable energy is stagnant due to other usages.
+  
+## Note-:
+  - This Comparision is done on Annual Temperature.
 
 
