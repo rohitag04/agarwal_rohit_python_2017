@@ -2,12 +2,12 @@
 <p align="center"><i>Does Weather Affect the Stock Market? </i></p>
 
 ## Table of Contents
-1. [Idea](#1-Idea)
-2. [Data Collection](#2-Data-Collection)
-3. [Data Storing](#3-Data-Storing)
-4. [Analysis 1](#4-Analysis-1)
-5. [Analysis 2](#5-Analysis-2)
-6. [Analysis 3](#6-Analysis-3)
+1. [Idea](#1-idea)
+2. [Data Collection](#2-data-collection)
+3. [Data Storing](#3-data-storing)
+4. [Analysis 1](#4-analysis-1)
+5. [Analysis 2](#5-analysis-2)
+6. [Analysis 3](#6-analysis-3)
 7. [References](#7-references)
 
 ## 1 Idea
