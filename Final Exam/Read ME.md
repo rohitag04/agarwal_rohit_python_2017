@@ -180,6 +180,31 @@ Packages Used -:
   - As GLOBAL Waring Increasing
   - There should be a increase in the price of Solar Energy.
     
-#### Now, How Weather affects Solar Energy Generation.
+#### Now, Does Weather affects Solar Energy Generation.
+
+
+#### Step 4 (Impact on Solar Energy (Renewable))
+#### Does Global Warming affect Solar Energy Generation?
+
+  - Used the weather Data Frame.
+  - Read Solar Energy Company Stock name FSLR (First Solar).
+  - Merged two dataframes outerly on Date Columns.
+  - Removed all NAN values in order to keep clean file.
+  - Analysed only for year 2012 & 2016.
+  - Used Double Y axis plot in order to show Weather & Stock.
+  
+  <img src="analysis/ana_[1-3]/Analysis 1/Weather VS Solar Stock.png" />
+  
+#### Assumptions 1 -:
+### Here I can see a huge difference in stock price because .
+  - The Consumption of Solar Energy is increased from past years.
+  - We can see the stock price is alomost doubled from 2012 to 2016.
+  - Which indicates Global Warming is directly propotional to Renewable energy.
+    
+#### Assumption 2-:
+  - There should be a increase in the price of Wind Energy.
+    
+#### Now, Does Weather affects Wind Energy Generation
+
 
 
