@@ -32,10 +32,20 @@ Packages Used -:
 
 __API 1__
 
-1- Wunderground API
+1- Wunderground API (Weather Forecast API)
 
-  Collected Data on daily basis from year 2012-2017 (April).
-  - jk
+  - Used wunderground Historical Data API for New York.
+  - New York in particular because Stock Exchange is located there.
+  - Collected Data on daily basis from year 2012-2017 (April).
+  - Data is collected in form of JSON.
+  - Naming Convention is given on date basis. So, Every file is unique.
+  - There are total of around 1800 Json Files.
+  - I have created one function that made an API call inside loop and download all Data in json.
+  
+  ### NOTE- 
+  - Data is collected on daily basis because of per day limit.
+  - Daily limit was 500. So, All Data is collected in 4 days.
+  - API key is save in Env
 
 
 
