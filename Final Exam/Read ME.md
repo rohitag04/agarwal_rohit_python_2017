@@ -75,7 +75,9 @@ __API 1__
  
  __Data for Wind Energy Company__
  
- 3- As I haven't found data for WIND ENERGY Company so I have downloaded CSV file from Yahoo Finance Website.
+ 3- As I haven't found data for WIND ENERGY Company.
+  - So I have downloaded CSV file from Yahoo Finance Website for Wind Energy for year 2012-2017 (April).
+  - Direct Hit the url using request library and saved the CSV file.
   
   **Data Source:** https://github.com/JostineHo/mememoji_api
 
