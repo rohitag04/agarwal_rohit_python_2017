@@ -103,7 +103,7 @@ __Quandl API__
   
   **Data Source:** https://github.com/JostineHo/mememoji_api
   
-  __WIND ENERGY DATA__
+  __Wind Energy DATA__
    - Created a link in order to request data from Yahoo Finance.
    - Directly saved in CSV format.
    
