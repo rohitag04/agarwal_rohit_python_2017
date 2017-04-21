@@ -80,7 +80,7 @@ __API 1__.
   **Source Code:** https://github.com/JostineHo/mememoji_api
 
 
-## 2. Data Storing
+## 3. Data Storing
 As Collected Data was in the form of JSON file So I filtered and Stored in CSV Format for Analysis.
 
 Packages Used -:
