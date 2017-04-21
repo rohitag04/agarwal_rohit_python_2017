@@ -136,8 +136,22 @@ Packages Used -:
   - 19(2016)
 
 #### Note- 
-  - As it's hard to spot rise in temparature
-  As above graph is based on per day Plotting So, difference is very minute which is not clearly visible.
+  - As it's hard to spot rise in temparature on day basis.
 #### So in order to make it visible I have plotted mean Tempearture for Every Year.
+
+#### Step 2 (Annual Mean Temperature Trend)
+  - Used the same Data Frame in order to find the mean.
+  - Group by on Date coumn on basis of year.
+  - Calculated the Mean of Max Temp. for each Year.
+  - Used Plotly Graph Object Bar Plot function in order to create plot.
+  
+  <img src="analysis/ana_[1-3]/Analysis 1/Annual Mean Temp.png" />
+  
+  ### After Analyzing the above graph we can say:
+  - There is a rise in Annual Mean each year.
+  - Which clearly proves that Temp. is increasing each year.
+  
+  #### Note-
+  - The year 2016 ranks as the warmest on record. (Source: NASA/GISS).
 
 
