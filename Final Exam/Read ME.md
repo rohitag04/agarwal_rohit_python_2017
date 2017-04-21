@@ -30,7 +30,7 @@ Packages Used -:
 - JSON
 - Date
 
-__API 1__
+__API 1__.
 
 1- Wunderground (Weather Forecast API)
 
@@ -51,7 +51,7 @@ __API 1__
  **Data Source:** https://github.com/JostineHo/mememoji_api
  
  
- __API 2__
+ __API 2__.
 
 2- Quandl (Stock Exchange API)
 
@@ -69,7 +69,7 @@ __API 1__
  **Data Source:** https://github.com/JostineHo/mememoji_api
  
  
- __Data for Wind Energy Company__
+ __Data for Wind Energy Company__.
  
  3- As I haven't found data for WIND ENERGY Company.
   - So I have downloaded CSV file from Yahoo Finance Website for Wind Energy for year 2012-2017 (April).
@@ -89,21 +89,21 @@ Packages Used -:
 - Shutil
 - CSV
 
-__Wundeground API__
+__Wundeground API__.
   - Looped through all JSON files.
   - Extracted useful information like (Max Temp, Min Temp etc.)
   - Stored all extracted information in one CSV file.
   
   **Data Source:** https://github.com/JostineHo/mememoji_api
 
-__Quandl API__
+__Quandl API__.
   - Looped through all JSON files.
   - Extracted useful information like (Low Price, HIgh Price ect.)
   - Stored all extracted information in differet CSV file for different companies.
   
   **Data Source:** https://github.com/JostineHo/mememoji_api
   
-  __Wind Energy DATA__
+  __Wind Energy DATA__.
    - Created a link in order to request data from Yahoo Finance.
    - Directly saved in CSV format.
    
