@@ -135,7 +135,9 @@ Packages Used -:
   - 7(2014)
   - 19(2016)
 
-#### As above graph is based on per day Plotting So, difference is very minute which is not clearly visible.
+#### Note- 
+  - As it's hard to spot rise in temparature
+  As above graph is based on per day Plotting So, difference is very minute which is not clearly visible.
 #### So in order to make it visible I have plotted mean Tempearture for Every Year.
 
 
