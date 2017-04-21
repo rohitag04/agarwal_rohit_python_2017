@@ -21,7 +21,7 @@ It seems commonsensical that it must have some impact, since weather is a ubiqui
 
 __As it's an Interesting Question. Let's find How Weather affect Renewable & Non Renewable Energy.__
 
-## 2 Data Collection
+## 2. Data Collection
 I have collected Historical Data for year 2012-2017 using two different API's.
 
 Packages Used -:
@@ -81,7 +81,7 @@ __API 1__
 
 
 
-## 2 Data Storing
+## 2. Data Storing
 As Collected Data was in the form of JSON file So I filtered and Stored in CSV Format for Analysis.
 
 Packages Used -:
