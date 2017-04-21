@@ -34,7 +34,8 @@ __API 1__
 
 1- Wunderground API
 
-  This API
+  Collected Data on daily basis from year 2012-2017 (April).
+  - jk
 
 
 
