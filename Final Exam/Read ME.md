@@ -154,5 +154,26 @@ Packages Used -:
   
   #### Note-
   - The year 2016 ranks as the warmest on record. (Source: NASA/GISS).
+  - GLOBAL WARMING is increasing.
+
+#### Step 3 (Impact on OIL (Non Renewable))
+#### Does Global Warming affect Oil Production?
+
+  - Used the weather Data Frame.
+  - Read Oil Company Stock name CVX.
+  - Merged two dataframes outerly on Date Columns.
+  - Removed all NAN values in order to keep clean file.
+  - Analysed only for year 2012 & 2016.
+  - Used Double Y axis plot in order to show Weather & Stock.
+  
+  <img src="analysis/ana_[1-3]/Analysis 1/Weather VS OIL Stock.png" />
+  
+  ### After Analyzing the above graph we can say:
+  - There is a rise in Annual Mean each year.
+  - Which clearly proves that Temp. is increasing each year.
+  - Which means Global Warming is increasing each year.
+  
+  #### Note-
+  - The year 2016 ranks as the warmest on record. (Source: NASA/GISS).
 
 
