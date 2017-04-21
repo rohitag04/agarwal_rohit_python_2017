@@ -55,7 +55,7 @@ __API 1__
  
  __API 2__
 
-1- Quandl (Stock Exchange API)
+2- Quandl (Stock Exchange API)
 
   - Used Quandl Historical Data API for Stocks of major compnaies (OIL & Solar).
   - OIL & SOLAR in particular because idea is impact on renewable & non renewable energies.
@@ -75,9 +75,9 @@ __API 1__
  
  __Data for Wind Energy Company__
  
-  - As I haven't found data for WIND ENERGY Company so I have downloaded CSV file from Yahoo Finance Website.
+ 3- As I haven't found data for WIND ENERGY Company so I have downloaded CSV file from Yahoo Finance Website.
   
-   **Data Source:** https://github.com/JostineHo/mememoji_api
+  **Data Source:** https://github.com/JostineHo/mememoji_api
 
 
 
