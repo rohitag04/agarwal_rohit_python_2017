@@ -127,5 +127,15 @@ Packages Used -:
   - Used Plotly Graph Object Scatter function in order to create plot.
   
   <img src="analysis/ana_[1-3]/Analysis 1/Per Day Max Temp.png" />
+  
+  ### After Analyzing the above graph we can say:
+  - Every second year tempeature was increasing.
+  - As we can see Red Color for 2016 is more compare to previous years.
+  - 4(2012)
+  - 7(2014)
+  - 19(2016)
+
+#### As above graph is based on per day Plotting So, difference is very minute which is not clearly visible.
+#### So in order to make it visible I have plotted mean Tempearture for Every Year.
 
 
