@@ -21,4 +21,7 @@ It seems commonsensical that it must have some impact, since weather is a ubiqui
 
 __As it's an Interesting Question. Let's find a relation between them.__
 
+## 2 Data Collection
+The dataset I used for training the model is from a Kaggle Facial Expression Recognition Challenge a few years back (FER2013). It comprises a total of __35887 pre-cropped, 48-by-48-pixel grayscale images__ of faces each labeled with one of the 7 emotion classes: anger, disgust, fear, happiness, sadness, surprise, and neutral.
+
 
