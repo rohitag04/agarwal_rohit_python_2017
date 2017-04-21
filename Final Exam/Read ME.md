@@ -19,7 +19,7 @@ It seems commonsensical that it must have some impact, since weather is a ubiqui
 
 > __"Ultimately it's an interesting question."__
 
-__As it's an Interesting Question. Let's find How Weather afect Renewable & Non Renewable Energy.__
+__As it's an Interesting Question. Let's find How Weather affect Renewable & Non Renewable Energy.__
 
 ## 2 Data Collection
 I have collected Historical Data for year 2012-2017 using two different API's.
@@ -48,8 +48,6 @@ __API 1__
   - API key is save in Environment Variable.
   - Data is only collected for New York City.
   
- **Source Code:** https://github.com/JostineHo/mememoji_api
- 
  **Data Source:** https://github.com/JostineHo/mememoji_api
  
  
@@ -68,8 +66,6 @@ __API 1__
   - API key is save in Environment Variable.
   - Data is only collected for OIL & SOLAR.
   
- **Source Code:** https://github.com/JostineHo/mememoji_api
- 
  **Data Source:** https://github.com/JostineHo/mememoji_api
  
  
@@ -80,9 +76,38 @@ __API 1__
   - Direct Hit the url using request library and saved the CSV file.
   
   **Data Source:** https://github.com/JostineHo/mememoji_api
+ 
+  **Source Code:** https://github.com/JostineHo/mememoji_api
 
 
 
+## 2 Data Storing
+As Collected Data was in the form of JSON file So I filtered and Stored in CSV Format for Analysis.
 
+Packages Used -:
+- Re
+- Shutil
+- CSV
 
+__Wundeground API__
+  - Looped through all JSON files.
+  - Extracted useful information like (Max Temp, Min Temp etc.)
+  - Stored all extracted information in one CSV file.
+  
+  **Data Source:** https://github.com/JostineHo/mememoji_api
+
+__Quandl API__
+  - Looped through all JSON files.
+  - Extracted useful information like (Low Price, HIgh Price ect.)
+  - Stored all extracted information in differet CSV file for different companies.
+  
+  **Data Source:** https://github.com/JostineHo/mememoji_api
+  
+  __WIND ENERGY DATA__
+   - Created a link in order to request data from Yahoo Finance.
+   - Directly saved in CSV format.
+   
+   **Data Source:** https://github.com/JostineHo/mememoji_api
+   
+   **Source Code:** https://github.com/JostineHo/mememoji_api
 
