@@ -106,7 +106,7 @@ __Quandl API__.
    - Created a link in order to request data from Yahoo Finance.
    - Directly saved in CSV format.
    
-   **Data Source:** https://github.com/JostineHo/mememoji_api
+   **Data Source:** https://github.com/rohitag04/agarwal_rohit_python_2017/edit/master/Final%20Exam/extra/VWS.csv
    
    **Source Code:** https://github.com/JostineHo/mememoji_api
 
