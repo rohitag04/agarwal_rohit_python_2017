@@ -111,7 +111,7 @@ __Quandl API__.
    **Source Code:** https://github.com/JostineHo/mememoji_api
    
    ## 4. Analysis 1
-#### Topic - Impact of Weather on Energy Sources.
+### Topic - Impact of Weather on Energy Sources.
 
 Packages Used -:
 - OS
@@ -126,6 +126,6 @@ Packages Used -:
   - Split the Date column in Day & Month.
   - Used Plotly Graph Object Scatter function in order to create plot.
   
-  <img src="analysis/ana_[1-3]/Analysis 1/Per Day Max Temp.png" alt="alt text" align="middle"/>
+  <img src="analysis/ana_[1-3]/Analysis 1/Per Day Max Temp.png" />
 
 
