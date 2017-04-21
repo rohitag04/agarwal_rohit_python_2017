@@ -23,6 +23,7 @@ __As it's an Interesting Question. Let's find a relation between them.__
 
 ## 2 Data Collection
 I have collected Historical Data for year 2012-2017 using two different API's.
+
 Packages Used -:
 - OS
 - Request
@@ -30,7 +31,8 @@ Packages Used -:
 - Date
 __API 1__
 
-Wunderground API
+1- Wunderground API
+  This API
 
 
 
