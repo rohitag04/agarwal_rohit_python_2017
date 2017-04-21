@@ -150,6 +150,7 @@ Packages Used -:
   ### After Analyzing the above graph we can say:
   - There is a rise in Annual Mean each year.
   - Which clearly proves that Temp. is increasing each year.
+  - Which means Global Warming is increasing each year.
   
   #### Note-
   - The year 2016 ranks as the warmest on record. (Source: NASA/GISS).
