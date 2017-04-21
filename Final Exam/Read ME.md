@@ -10,7 +10,7 @@
 6. [Analysis 3](#6-analysis-3)
 7. [References](#7-references)
 
-## 1 Idea
+## 1. Idea
 #### Does Weather Affect the Stock Market?
 
 Despite the best efforts of many highly trained economists and market specialists, there is no widespread consensus about how, or even if, weather affects the performance of the stock market.
