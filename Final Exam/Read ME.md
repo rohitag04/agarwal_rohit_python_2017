@@ -42,10 +42,14 @@ __API 1__
   - There are total of around 1800 Json Files.
   - I have created one function that made an API call inside loop and download all Data in json.
   
-  ### NOTE- 
+  ##### NOTE- 
   - Data is collected on daily basis because of per day limit.
   - Daily limit was 500. So, All Data is collected in 4 days.
-  - API key is save in Env
+  - API key is save in Environment Variable.
+  - Data is only collected for New York City.
+  
+ **Source Code:** https://github.com/JostineHo/mememoji_api
+ **Data Source:** https://github.com/JostineHo/mememoji_api
 
 
 
