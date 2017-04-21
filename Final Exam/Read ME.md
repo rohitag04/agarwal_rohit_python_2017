@@ -168,12 +168,18 @@ Packages Used -:
   
   <img src="analysis/ana_[1-3]/Analysis 1/Weather VS OIL Stock.png" />
   
-  ### After Analyzing the above graph we can say:
-  - There is a rise in Annual Mean each year.
-  - Which clearly proves that Temp. is increasing each year.
-  - Which means Global Warming is increasing each year.
-  
-  #### Note-
-  - The year 2016 ranks as the warmest on record. (Source: NASA/GISS).
+#### Assumption 1 -:
+### Although there is not more difference in stock price from 2012 to 2016 because .
+  - We know Global Warming is increasing.
+  - The Consumption of Crude OIL is not Decreasing but it is consistent because.
+  - OIL is now mostly using in Vehicles and Country is not totally shifted to ELECTRIC CARS.
+  - SO, There is not much more impact of Weather on use of OIL.
+  - Majority of the times we can see as the Max Temp increases the Stock Price Decreases.
+    
+#### Assumption 2-:
+  - As GLOBAL Waring Increasing
+  - There should be a increase in the price of Solar Energy.
+    
+#### Now, How Weather affects Solar Energy Generation.
 
 
