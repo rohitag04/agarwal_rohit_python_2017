@@ -10,7 +10,7 @@
 6. [Analysis 3](#6-Analysis-3)
 7. [References](#7-references)
 
-## 1 Motivation
+## 1 Idea
 Human facial expressions can be easily classified into 7 basic emotions: happy, sad, surprise, fear, anger, disgust, and neutral. Our facial emotions are expressed through activation of specific sets of facial muscles. These sometimes subtle, yet complex, signals in an expression often contain an abundant amount of information about our state of mind. Through facial emotion recognition, we are able to measure the effects that content and services have on the audience/users through an easy and low-cost procedure. For example, retailers may use these metrics to evaluate __customer interest__. Healthcare providers can provide better service by using additional information about __patients' emotional state__ during treatment. Entertainment producers can monitor __audience engagement__ in events to consistently create desired content.
 
 > __“2016 is the year when machines learn to grasp human emotions”__
@@ -18,7 +18,7 @@ Human facial expressions can be easily classified into 7 basic emotions: happy, 
 
 Humans are well-trained in reading the emotions of others, in fact, at just 14 months old, babies can already tell the difference between happy and sad. __But can computers do a better job than us in accessing emotional states?__ To answer the question, I designed a deep learning neural network that gives machines the ability to make inferences about our emotional states. In other words, I give them eyes to see what we can see.
 
-## 2 The Database
+## 2 Data Collection
 The dataset I used for training the model is from a Kaggle Facial Expression Recognition Challenge a few years back (FER2013). It comprises a total of __35887 pre-cropped, 48-by-48-pixel grayscale images__ of faces each labeled with one of the 7 emotion classes: anger, disgust, fear, happiness, sadness, surprise, and neutral.
 
 <p align="center">
