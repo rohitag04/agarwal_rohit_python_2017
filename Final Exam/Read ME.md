@@ -128,7 +128,7 @@ Packages Used -:
   
   <img src="analysis/ana_[1-3]/Analysis 1/Per Day Max Temp.png" />
   
-  ### After Analyzing the above graph we can say:
+  #### After Analyzing the above graph we can say:
   - Every second year tempeature was increasing.
   - As we can see Red Color for 2016 is more compare to previous years.
   - 4(2012)
@@ -147,7 +147,7 @@ Packages Used -:
   
   <img src="analysis/ana_[1-3]/Analysis 1/Annual Mean Temp.png" />
   
-  ### After Analyzing the above graph we can say:
+  #### After Analyzing the above graph we can say:
   - There is a rise in Annual Mean each year.
   - Which clearly proves that Temp. is increasing each year.
   - Which means Global Warming is increasing each year.
@@ -169,7 +169,7 @@ Packages Used -:
   <img src="analysis/ana_[1-3]/Analysis 1/Weather VS OIL Stock.png" />
   
 #### Assumption 1 -:
-### Although there is not more difference in stock price from 2012 to 2016 because .
+#### Although there is not more difference in stock price from 2012 to 2016 because .
   - We know Global Warming is increasing.
   - The Consumption of Crude OIL is not Decreasing but it is consistent because.
   - OIL is now mostly using in Vehicles and Country is not totally shifted to ELECTRIC CARS.
@@ -196,7 +196,7 @@ Packages Used -:
   <img src="analysis/ana_[1-3]/Analysis 1/Weather VS Solar Stock.png" />
   
 #### Assumptions 1 -:
-### Here I can see a huge difference in stock price because .
+#### Here I can see a huge difference in stock price because .
   - The Consumption of Solar Energy is increased from past years.
   - We can see the stock price is alomost doubled from 2012 to 2016.
   - Which indicates Global Warming is directly propotional to Renewable energy.
@@ -219,7 +219,7 @@ Packages Used -:
   <img src="analysis/ana_[1-3]/Analysis 1/Weather VS WIND Stock.png" />
   
 #### Assumptions -:
-### Here I can see a Huge Huge difference in stock price.
+#### Here I can see a Huge Huge difference in stock price.
   - We can see the stock price is alomost increased 80 times from 2012 to 2016.
   - Which indicates Global Warming is directly propotional to Renewable energy.
     
@@ -230,7 +230,7 @@ Packages Used -:
   - At the same time uses of Renewable Energy is also increasing Annualy.
   - Non Renewable energy is stagnant due to other usages.
   
-### Note-:
+#### Note-:
   - This Comparision is done on Annual Temperature.
   
   **Source Code:** [Analysis 1.ipynb]()
