@@ -249,10 +249,13 @@ Packages Used -:
 - iPlots
 - Graph Objects
 
-### Step 1 (Temperature Trend)
-  - Read Weather.CSV in order to create Scatter plot to see trend of Maximum Temp (C) on daily basis for year [2012, 2014, 2016]
-  - As CSV file contain Date column so I parsed it while reading.
-  - Split the Date column in Day & Month.
-  - Used Plotly Graph Object Scatter function in order to create plot.
+### Step 1 (Annual means of stock situation of renewable and non- renewable energy companies)
+  - Read all companies stock & weather csv file.
+  - Merged tham all outerly using Date column.
+  - Created new CSV name StockWeather csv that contain stock & weather data.
+  - Read the new CSV and calculated Mean base of year for all years.
+  - Used Plotly Graph Object Bar Plot function in order to create plot.
   
-  <img src="analysis/ana_[1-3]/Analysis 1/Per Day Max Temp.png" />
+  **Data Source:** [StockWeather.csv](https://github.com/rohitag04/agarwal_rohit_python_2017/blob/master/Final%20Exam/extra/weatherStock.csv)
+  
+  <img src="analysis/ana_[1-3]/Analysis 2/Mean.png" />
