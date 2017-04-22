@@ -15,6 +15,8 @@
       * [5.1 Annual means of stock situation of renewable and non- renewable energy companies](#51-stock-situation)
       * [5.2 Standard deviation of weather, oil, solar and wind](#52-standard-deviation)
 6. [Analysis 3](#6-analysis-3)
+      * [6.1 Daily percentage return of stocks of Oil & Solar & Wind](#61-percent-change)
+      * [6.2 Analysed risk of the stock using VaR(Value at Risk](#62-risk-analysis)
 7. [References](#7-references)
 
 ## 1. Idea
