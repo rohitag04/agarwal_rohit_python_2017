@@ -120,7 +120,7 @@ Packages Used -:
 - iPlots
 - Graph Objects
 
-#### Step 1 (Temperature Trend)
+### Step 1 (Temperature Trend)
   - Read Weather.CSV in order to create Scatter plot to see trend of Maximum Temp (C) on daily basis for year [2012, 2014, 2016]
   - As CSV file contain Date column so I parsed it while reading.
   - Split the Date column in Day & Month.
@@ -139,7 +139,7 @@ Packages Used -:
   - As it's hard to spot rise in temparature on day basis.
 ##### So in order to make it visible I have plotted mean Tempearture for Every Year.
 
-#### Step 2 (Annual Mean Temperature Trend)
+### Step 2 (Annual Mean Temperature Trend)
   - Used the same Data Frame in order to find the mean.
   - Group by on Date coumn on basis of year.
   - Calculated the Mean of Max Temp. for each Year.
@@ -156,7 +156,7 @@ Packages Used -:
   - The year 2016 ranks as the warmest on record. (Source: NASA/GISS).
   - GLOBAL WARMING is increasing.
 
-#### Step 3 (Impact on OIL (Non Renewable))
+### Step 3 (Impact on OIL (Non Renewable))
 ##### Does Global Warming affect Oil Production?
 
   - Used the weather Data Frame.
@@ -183,7 +183,7 @@ Packages Used -:
 ##### Now, Does Weather affects Solar Energy Generation.
 
 
-#### Step 4 (Impact on Solar Energy (Renewable))
+### Step 4 (Impact on Solar Energy (Renewable))
 ##### Does Global Warming affect Solar Energy Generation?
 
   - Used the weather Data Frame.
@@ -206,7 +206,7 @@ Packages Used -:
     
 ##### Now, Does Weather affects Wind Energy Generation.
 
-#### Step 5 (Impact on Wind Energy (Renewable))
+### Step 5 (Impact on Wind Energy (Renewable))
 ##### Does Global Warming affect Wind Energy Generation?
 
   - Used the weather Data Frame.
