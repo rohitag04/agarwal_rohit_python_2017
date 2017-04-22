@@ -308,3 +308,32 @@ has shot through the roof.
   **Source Code:** [Analysis 2.ipynb]()
    
    
+ ## 6. Analysis 3
+### Topic - Coorelation between Renewable & Non Renewable Energy Stocks.
+
+Packages Used -:
+- OS
+- Panda
+- Numpy
+- Matplotlib
+- Seaborn
+
+### Step 1 (Faily percentage return of stocks of Oil & Solar & Wind)
+  - Read all required CSV file using pandas.
+  - created seperate dataframes for seperate CSV.
+  - As CSV contains dates so I parsed it while reading using parse_dates
+  - Task is to merge all csv outerly on Date Column
+  - Saving the final CSV in Analysis 3 Folder for final Analysis.
+  - As we know 2017 is running and I don't have enough Data to represent so I removed all Data for 2017.
+  - I done the cleaning using drop NAN values.
+  - Calculated Percentage Change of each company stock with related to past dates.
+  - Plotted corelation between OIL & SOLAR & WIND.
+  
+  **Data Source:** [sotck.csv](https://github.com/rohitag04/agarwal_rohit_python_2017/blob/master/Final%20Exam/analysis/ana_%5B1-3%5D/Analysis%203/stock.csv)
+  
+  <img src="analysis/ana_[1-3]/Analysis 2/oilVSSolar.png" align="left"/>
+  
+   <img src="analysis/ana_[1-3]/Analysis 2/solarVSwind.png" align="middle"/>
+   
+    <img src="analysis/ana_[1-3]/Analysis 2/windVSoil.png" align="right"/>
+
