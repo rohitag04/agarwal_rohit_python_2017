@@ -242,7 +242,7 @@ Packages Used -:
 ##### Note-:
   - This Comparision is done on Annual Temperature.
   
-  **Source Code:** [Analysis 1.ipynb](http://nbviewer.jupyter.org/github/rohitag04/agarwal_rohit_python_2017/blob/7371d0a772de676379335c7e3f612711b3e3914c/Final%20Exam/analysis/ana_[1-3].ipynb/Final_Analysis_1.ipynb)
+  **Source Code:** [Analysis 1.ipynb](http://nbviewer.jupyter.org/github/rohitag04/agarwal_rohit_python_2017/blob/42f1e937b4362fbb6a37acb1a42cf5b2e019e01e/Final%20Exam/analysis/ana_[1-3].ipynb/Final_Analysis_1.ipynb)
   
   
   ## 5. Analysis 2
@@ -307,7 +307,7 @@ has shot through the roof.
 ##### Note-:
   - This Comparision is done on Annual Mean Temperature & Stock.
   
-  **Source Code:** [Analysis 2.ipynb](https://github.com/rohitag04/agarwal_rohit_python_2017/blob/master/Final%20Exam/analysis/ana_%5B1-3%5D.ipynb/Final_Analysis_2.ipynb)
+  **Source Code:** [Analysis 2.ipynb](http://nbviewer.jupyter.org/github/rohitag04/agarwal_rohit_python_2017/blob/42f1e937b4362fbb6a37acb1a42cf5b2e019e01e/Final%20Exam/analysis/ana_%5B1-3%5D.ipynb/Final_Analysis_2.ipynb)
    
    
  ## 6. Analysis 3
@@ -382,7 +382,7 @@ Packages Used -:
 #### Result from above
   - It means that with 90% confidence, our worst daily loss for VWS will not exceed by 4.5%.
   
-**Source Code:** [Analysis 3.ipynb](https://github.com/rohitag04/agarwal_rohit_python_2017/blob/master/Final%20Exam/analysis/ana_%5B1-3%5D.ipynb/Final_Analysis_3.ipynb)
+**Source Code:** [Analysis 3.ipynb](http://nbviewer.jupyter.org/github/rohitag04/agarwal_rohit_python_2017/blob/42f1e937b4362fbb6a37acb1a42cf5b2e019e01e/Final%20Exam/analysis/ana_%5B1-3%5D.ipynb/Final_Analysis_3.ipynb)
   
 ### Final Conclusion
    - There is a coorelation between OIL & SOLAR.
