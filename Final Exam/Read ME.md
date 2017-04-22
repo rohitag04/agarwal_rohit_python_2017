@@ -253,7 +253,7 @@ Packages Used -:
   - Read all companies stock & weather csv file.
   - Merged tham all outerly using Date column.
   - Created new CSV name weatherStock csv that contain stock & weather data.
-  - Read the new csv and filtered the data dropping year 2017 an we have less data fro that year.
+  - Read the new csv and filtered the data dropping year 2017 as we have less data for that year.
   - Created the new name stockWeather CSV and calculated Mean base of year for all years.
   - Used Plotly Graph Object Bar Plot function in order to create plot.
   
@@ -262,3 +262,13 @@ Packages Used -:
   **Data Source:** [StockWeather.csv](https://github.com/rohitag04/agarwal_rohit_python_2017/blob/master/Final%20Exam/analysis/ana_%5B1-3%5D/Analysis%202/stockWeather.csv)
   
   <img src="analysis/ana_[1-3]/Analysis 2/Mean.PNG" />
+  
+   ##### The Above plot describes:
+   - The comparative study of annual means of stock situation of renewable and non- renewable energy companies
+against the annual means of temperatures.
+   - The study shows a stagnancy in the rise of non-renewable energy (oil) company's stock.
+   - When the global oil dependancy is put under the microscope, it is realized that means of transport throughout the world depend on oil as fuel source.
+   - Electricity supplied throughout the country through power plants is generated using similar means. 
+   - The past decade has seen a steep rise in global temperatures and ancient and historical environmental studies have painted a grim picture revealing the current timeline to be the warmest.
+   - The above plot reflects a magnanimous rise in wind power and solar power.
+   - The rise in weather can be clearly marked from 2012, when the mean was meandering about 0.65, to 2016, when the mean has mounted to 0.94.
