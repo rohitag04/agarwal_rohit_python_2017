@@ -234,5 +234,25 @@ Packages Used -:
   - This Comparision is done on Annual Temperature.
   
   **Source Code:** [Analysis 1.ipynb]()
+  
+  
+  ## 5. Analysis 2
+### Topic - Percentage shift on Weather & Stock.
 
+Packages Used -:
+- OS
+- Panda
+- Numpy
+- Matplotlib
+- Seaborn
+- Plotly Offline
+- iPlots
+- Graph Objects
 
+### Step 1 (Temperature Trend)
+  - Read Weather.CSV in order to create Scatter plot to see trend of Maximum Temp (C) on daily basis for year [2012, 2014, 2016]
+  - As CSV file contain Date column so I parsed it while reading.
+  - Split the Date column in Day & Month.
+  - Used Plotly Graph Object Scatter function in order to create plot.
+  
+  <img src="analysis/ana_[1-3]/Analysis 1/Per Day Max Temp.png" />
