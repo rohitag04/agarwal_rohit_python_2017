@@ -3,29 +3,20 @@
 
 ## Table of Contents
 1. [Idea](#1-idea)
-
 2. [Data Collection](#2-data-collection)
-
 3. [Data Storing](#3-data-storing)
-
-4. [Analysis 1 (Impact of Weather on Energy Sources)](#4-analysis-1)
-
+4. [Analysis 1(#4-analysis-1)
       * [4.1 Temperature Trend](#41-temperature-trend)
       * [4.2 Annual Mean Temperature Trend](#42-annual-mean-temperature-trend)
       * [4.3 Impact on OIL (Non Renewable)](#43-impact-on-oil)
       * [4.4 Impact on Solar Energy (Renewable)](#44-impact-on-solar-energy)
       * [4.5 Impact on Wind Energy (Renewable)](#45-impact-on-wind-energy)
-      
-5. [Analysis 2 (Percentage shift on Weather & Stock)](#5-analysis-2)
-
+5. [Analysis 2](#5-analysis-2)
       * [5.1 Annual means of stock situation of renewable and non- renewable energy companies](#51-stock-situation)
-      * [5.2 Standard deviation of weather, oil, solar and wind](#52-standard-deviation)
-      
-6. [Analysis 3 (Coorelation between Renewable & Non Renewable Energy Stocks)](#6-analysis-3)
-
+      * [5.2 Standard deviation of weather, oil, solar and wind](#52-standard-deviation)      
+6. [Analysis 3](#6-analysis-3)
       * [6.1 Daily percentage return of stocks of Oil & Solar & Wind](#61-percent-change)
-      * [6.2 Analysed risk of the stock using VaR(Value at Risk](#62-risk-analysis)
-      
+      * [6.2 Analysed risk of the stock using VaR(Value at Risk](#62-risk-analysis)      
 7. [References](#7-references)
 
 ## 1. Idea
