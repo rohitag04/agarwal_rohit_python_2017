@@ -223,14 +223,14 @@ Packages Used -:
   - We can see the stock price is alomost increased 80 times from 2012 to 2016.
   - Which indicates Global Warming is directly propotional to Renewable energy.
     
-## Final Conclusion
+### Final Conclusion
   - Weather Plays a major role in stock price.
   - As Annual mean of weather is increasing every year.
   - Global Warming is also Increasing.
   - At the same time uses of Renewable Energy is also increasing Annualy.
   - Non Renewable energy is stagnant due to other usages.
   
-## Note-:
+### Note-:
   - This Comparision is done on Annual Temperature.
 
 
