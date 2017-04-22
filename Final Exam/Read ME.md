@@ -333,7 +333,7 @@ Packages Used -:
   
   <img src="analysis/ana_[1-3]/Analysis 3/oilVSSolar.png" align="left"/>
   
-  <img src="analysis/ana_[1-3]/Analysis 3/solarVSwind.png" align="right"/>
+  <img src="analysis/ana_[1-3]/Analysis 3/solarVSwind.png" align="middle"/>
    
   <img src="analysis/ana_[1-3]/Analysis 3/windVSoil.png" align="left"/>
 
