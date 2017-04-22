@@ -380,8 +380,17 @@ Packages Used -:
 #### Result from above
   - It means that with 90% confidence, our worst daily loss for VWS will not exceed by 4.5%.
   
-## Final Conclusion
+### Final Conclusion
    - There is a coorelation between OIL & SOLAR.
    - VWS is the best choice to buy.
    - Daily Risk for VWS Stock will not increase 4.5 %.
    - Buying 1 Stock has highest expected returns & Lowest Risks.
+   
+ 
+## 7 References
+
+1. https://climate.nasa.gov/vital-signs/global-temperature/
+
+2. https://ntguardian.wordpress.com/2016/09/19/introduction-stock-market-data-python-1/
+
+3. https://blog.nycdatascience.com/student-works/nyc-weather-affect-stock-market/
