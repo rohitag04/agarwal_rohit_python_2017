@@ -318,7 +318,7 @@ Packages Used -:
 - Matplotlib
 - Seaborn
 
-### Step 1 (Faily percentage return of stocks of Oil & Solar & Wind)
+### Step 1 (Daily percentage return of stocks of Oil & Solar & Wind)
   - Read all required CSV file using pandas.
   - created seperate dataframes for seperate CSV.
   - As CSV contains dates so I parsed it while reading using parse_dates
@@ -336,4 +336,12 @@ Packages Used -:
   <img src="analysis/ana_[1-3]/Analysis 3/solarVSwind.png" align="middle"/>
    
   <img src="analysis/ana_[1-3]/Analysis 3/windVSoil.png" align="left"/>
+  
+#### RESULT FROM ALL  COORELATIONS
+  - The correlation coefficient B/w OIL & SOLAR is 0.25.
+  - The correlation coefficient B/w SOLAR & WIND  is 0.11.
+  - The correlation coefficient B/w WIND & OIL is 0.13.
+    
+#### NOTE- AS The coorealtion coefficient is not a lot but after analysing above cooefiicients.
+   - I can say OIL & SOLAR have some coorelation between them.
 
