@@ -350,10 +350,38 @@ Packages Used -:
   -  A quick glance shows positive correlation between CVX and FSLR daily returns are rather high.
 
 
-#### NOW, will draw a correlation HeatMap plot with actual numerical values for the correlation between the stocks' daily return values.
+#### Now, will draw a correlation HeatMap plot with actual numerical values for the correlation between the stocks' daily return values.
 
 <img src="analysis/ana_[1-3]/Analysis 3/heatMapCoorelation.png" align='middle'/>
 
 #### Result from above coorealtion plot.
-   - Just like we suspected in our C0orelation Plot, we see here that CVX and FSLR had the strongest correlation of daily stock return. 
+   - Just like we suspected in our Coorelation Plot, we see here that CVX and FSLR had the strongest correlation of daily stock return. 
 
+
+### Step 2 (Analysed risk of the stock using VaR(Value at Risk)
+  - Used the same data frame.
+  - Calculated Mean, Standard Deviation of all companies stock.
+  - Plotted Risk & Expected Retruns on X and Y axis.
+  - Used Matplotlib Annotate function in order to plot.
+  
+  <img src="analysis/ana_[1-3]/Analysis 3/RiskVSReturns.png" align='middle'/>
+  
+#### From above Result-:
+  - It seems that VWS(WIND) is the best choice.
+  - If we can only choose 1 stock. As it has the highest expected returns and lowest risk.
+
+
+#### Next, we find the Risk using Empirical Quantile .
+- What is Empirical Quantile?
+    - In statistics and the theory of probability, quantiles are cutpoints dividing the range of a probability distribution into contiguous intervals with equal probabilities, or dividing the observations in a sample in the same way. There is one less quantile than the number of groups created.
+    
+<img src="analysis/ana_[1-3]/Analysis 3/Empirical Quantile.png" align='middle'/>
+
+#### Result from above
+  - It means that with 90% confidence, our worst daily loss for VWS will not exceed by 4.5%.
+  
+## Final Conclusion
+   - There is a coorelation between OIL & SOLAR.
+   - VWS is the best choice to buy.
+   - Daily Risk for VWS Stock will not increase 4.5 %.
+   - Buying 1 Stock has highest expected returns & Lowest Risks.
