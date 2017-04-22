@@ -5,7 +5,7 @@
 1. [Idea](#1-idea)
 2. [Data Collection](#2-data-collection)
 3. [Data Storing](#3-data-storing)
-4. [Analysis 1](#4-analysis-1)
+4. [Analysis 1 (Impact of Weather on Energy Sources)](#4-analysis-1)
       * [4.1 Temperature Trend](#41-temperature-trend)
       * [4.2 Annual Mean Temperature Trend](#42-annual-mean-temperature-trend)
       * [4.3 Impact on OIL (Non Renewable)](#43-impact-on-oil)
@@ -119,8 +119,8 @@ __Quandl API__.
    
    **Source Code:** [Data Storing](https://github.com/rohitag04/agarwal_rohit_python_2017/blob/master/Final%20Exam/analysis/ana_%5B1-3%5D.ipynb/Collect_Data.ipynb)
    
-   ## 4. Analysis 1 (Impact of Weather on Energy Sources)
-### Topic - Impact of Weather on Energy Sources.
+   ## 4. Analysis 1
+## Topic - Impact of Weather on Energy Sources.
 
 Packages Used -:
 - OS
