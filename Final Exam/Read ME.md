@@ -252,10 +252,13 @@ Packages Used -:
 ### Step 1 (Annual means of stock situation of renewable and non- renewable energy companies)
   - Read all companies stock & weather csv file.
   - Merged tham all outerly using Date column.
-  - Created new CSV name StockWeather csv that contain stock & weather data.
-  - Read the new CSV and calculated Mean base of year for all years.
+  - Created new CSV name weatherStock csv that contain stock & weather data.
+  - Read the new csv and filtered the data dropping year 2017 an we have less data fro that year.
+  - Created the new name stockWeather CSV and calculated Mean base of year for all years.
   - Used Plotly Graph Object Bar Plot function in order to create plot.
   
   **Data Source:** [StockWeather.csv](https://github.com/rohitag04/agarwal_rohit_python_2017/blob/master/Final%20Exam/extra/weatherStock.csv)
+  
+  **Data Source:** [StockWeather.csv](https://github.com/rohitag04/agarwal_rohit_python_2017/blob/master/Final%20Exam/analysis/ana_%5B1-3%5D/Analysis%202/stockWeather.csv)
   
   <img src="analysis/ana_[1-3]/Analysis 2/Mean.PNG" />
