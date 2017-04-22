@@ -258,4 +258,4 @@ Packages Used -:
   
   **Data Source:** [StockWeather.csv](https://github.com/rohitag04/agarwal_rohit_python_2017/blob/master/Final%20Exam/extra/weatherStock.csv)
   
-  <img src="analysis/ana_[1-3]/Analysis 2/Mean.png" />
+  <img src="analysis/ana_[1-3]/Analysis 2/Mean.PNG" />
