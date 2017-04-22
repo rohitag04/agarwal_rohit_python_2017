@@ -344,4 +344,9 @@ Packages Used -:
     
 #### NOTE- AS The coorealtion coefficient is not a lot but after analysing above cooefiicients.
    - I can say OIL & SOLAR have some coorelation between them.
+   
+   
+### Creating a Pair Plot for an automatic visual analysis of all the comparisons.
+
+<img src="analysis/ana_[1-3]/Analysis 3/PairPlot.png"/>
 
