@@ -16,8 +16,9 @@
       * [5.2 Standard deviation of weather, oil, solar and wind](#52-standard-deviation)      
 6. [Analysis 3](#6-analysis-3)
       * [6.1 Daily percentage return of stocks of Oil & Solar & Wind](#61-percent-change)
-      * [6.2 Analysed risk of the stock using VaR(Value at Risk](#62-risk-analysis)      
-7. [References](#7-references)
+      * [6.2 Analysed risk of the stock using VaR(Value at Risk](#62-risk-analysis)
+7. [Final Conclusion](#7-final-conclusion)
+8. [References](#8-references)
 
 ## 1. Idea
 #### Does Weather Affect the Stock Market?
@@ -390,14 +391,14 @@ Packages Used -:
 
 **Image Source:** [Images](https://github.com/rohitag04/agarwal_rohit_python_2017/tree/master/Final%20Exam/analysis/ana_%5B1-3%5D/Analysis%203)
   
-### Final Conclusion
+## 7. Final Conclusion
    - There is a coorelation between OIL & SOLAR.
    - VWS is the best choice to buy.
    - Daily Risk for VWS Stock will not increase 4.5 %.
    - Buying 1 Stock has highest expected returns & Lowest Risks.
    
  
-## 7. References
+## 8. References
 
 1. https://climate.nasa.gov/vital-signs/global-temperature/
 
