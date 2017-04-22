@@ -398,10 +398,13 @@ Packages Used -:
    - Buying 1 Stock has highest expected returns & Lowest Risks.
   
 ## 7. Final Conclusion of Study
-   - There is a coorelation between OIL & SOLAR.
-   - VWS is the best choice to buy.
-   - Daily Risk for VWS Stock will not increase 4.5 %.
-   - Buying 1 Stock has highest expected returns & Lowest Risks.
+   - Weather Plays a major role in stock price.
+   - As Annual mean of weather is increasing every year by which Global Warming is increasing.
+   - At the same time uses of Renewable Energy is also increasing Annualy.
+   - Non Renewable energy is stagnant due to other usages.
+   - The past decade has seen a steep rise in global temperatures and ancient and historical environmental studies have painted a grim picture revealing the current timeline to be the warmest.
+   - The rise of solar is consistently progressing, wind power consumption as a means to produce energy has shot through the roof.
+   - Oil meanwhile has simultaneously regressed.
    
  
 ## 8. References
