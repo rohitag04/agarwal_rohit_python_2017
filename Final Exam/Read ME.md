@@ -128,16 +128,16 @@ Packages Used -:
   
   <img src="analysis/ana_[1-3]/Analysis 1/Per Day Max Temp.png" />
   
-  #### After Analyzing the above graph we can say:
+  ##### After Analyzing the above graph we can say:
   - Every second year tempeature was increasing.
   - As we can see Red Color for 2016 is more compare to previous years.
   - 4(2012)
   - 7(2014)
   - 19(2016)
 
-#### Note- 
+##### Note- 
   - As it's hard to spot rise in temparature on day basis.
-#### So in order to make it visible I have plotted mean Tempearture for Every Year.
+##### So in order to make it visible I have plotted mean Tempearture for Every Year.
 
 #### Step 2 (Annual Mean Temperature Trend)
   - Used the same Data Frame in order to find the mean.
@@ -147,17 +147,17 @@ Packages Used -:
   
   <img src="analysis/ana_[1-3]/Analysis 1/Annual Mean Temp.png" />
   
-  #### After Analyzing the above graph we can say:
+  ##### After Analyzing the above graph we can say:
   - There is a rise in Annual Mean each year.
   - Which clearly proves that Temp. is increasing each year.
   - Which means Global Warming is increasing each year.
   
-  #### Note-
+  ##### Note-
   - The year 2016 ranks as the warmest on record. (Source: NASA/GISS).
   - GLOBAL WARMING is increasing.
 
 #### Step 3 (Impact on OIL (Non Renewable))
-#### Does Global Warming affect Oil Production?
+##### Does Global Warming affect Oil Production?
 
   - Used the weather Data Frame.
   - Read Oil Company Stock name CVX.
@@ -168,23 +168,23 @@ Packages Used -:
   
   <img src="analysis/ana_[1-3]/Analysis 1/Weather VS OIL Stock.png" />
   
-#### Assumption 1 -:
-#### Although there is not more difference in stock price from 2012 to 2016 because .
+##### Assumption 1 -:
+##### Although there is not more difference in stock price from 2012 to 2016 because .
   - We know Global Warming is increasing.
   - The Consumption of Crude OIL is not Decreasing but it is consistent because.
   - OIL is now mostly using in Vehicles and Country is not totally shifted to ELECTRIC CARS.
   - SO, There is not much more impact of Weather on use of OIL.
   - Majority of the times we can see as the Max Temp increases the Stock Price Decreases.
     
-#### Assumption 2-:
+##### Assumption 2-:
   - As GLOBAL Waring Increasing
   - There should be a increase in the price of Solar Energy.
     
-#### Now, Does Weather affects Solar Energy Generation.
+##### Now, Does Weather affects Solar Energy Generation.
 
 
 #### Step 4 (Impact on Solar Energy (Renewable))
-#### Does Global Warming affect Solar Energy Generation?
+##### Does Global Warming affect Solar Energy Generation?
 
   - Used the weather Data Frame.
   - Read Solar Energy Company Stock name FSLR (First Solar).
@@ -195,19 +195,19 @@ Packages Used -:
   
   <img src="analysis/ana_[1-3]/Analysis 1/Weather VS Solar Stock.png" />
   
-#### Assumptions 1 -:
-#### Here I can see a huge difference in stock price because .
+##### Assumptions 1 -:
+##### Here I can see a huge difference in stock price because .
   - The Consumption of Solar Energy is increased from past years.
   - We can see the stock price is alomost doubled from 2012 to 2016.
   - Which indicates Global Warming is directly propotional to Renewable energy.
     
-#### Assumption 2-:
+##### Assumption 2-:
   - There should be a increase in the price of Wind Energy.
     
-#### Now, Does Weather affects Wind Energy Generation.
+##### Now, Does Weather affects Wind Energy Generation.
 
 #### Step 5 (Impact on Wind Energy (Renewable))
-#### Does Global Warming affect Wind Energy Generation?
+##### Does Global Warming affect Wind Energy Generation?
 
   - Used the weather Data Frame.
   - Read Wind Energy Company Stock name VWS (Vestas Wind).
@@ -218,8 +218,8 @@ Packages Used -:
   
   <img src="analysis/ana_[1-3]/Analysis 1/Weather VS WIND Stock.png" />
   
-#### Assumptions -:
-#### Here I can see a Huge Huge difference in stock price.
+##### Assumptions -:
+##### Here I can see a Huge Huge difference in stock price.
   - We can see the stock price is alomost increased 80 times from 2012 to 2016.
   - Which indicates Global Warming is directly propotional to Renewable energy.
     
@@ -230,7 +230,7 @@ Packages Used -:
   - At the same time uses of Renewable Energy is also increasing Annualy.
   - Non Renewable energy is stagnant due to other usages.
   
-#### Note-:
+##### Note-:
   - This Comparision is done on Annual Temperature.
   
   **Source Code:** [Analysis 1.ipynb]()
