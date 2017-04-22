@@ -389,7 +389,7 @@ Packages Used -:
    - Buying 1 Stock has highest expected returns & Lowest Risks.
    
  
-## 7 References
+## 7. References
 
 1. https://climate.nasa.gov/vital-signs/global-temperature/
 
