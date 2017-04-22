@@ -331,9 +331,9 @@ Packages Used -:
   
   **Data Source:** [sotck.csv](https://github.com/rohitag04/agarwal_rohit_python_2017/blob/master/Final%20Exam/analysis/ana_%5B1-3%5D/Analysis%203/stock.csv)
   
-  <img src="analysis/ana_[1-3]/Analysis 2/oilVSSolar.png" align="left"/>
+  <img src="analysis/ana_[1-3]/Analysis 3/oilVSSolar.png" align="left"/>
   
-   <img src="analysis/ana_[1-3]/Analysis 2/solarVSwind.png" align="middle"/>
+  <img src="analysis/ana_[1-3]/Analysis 3/solarVSwind.png" align="middle"/>
    
-    <img src="analysis/ana_[1-3]/Analysis 2/windVSoil.png" align="right"/>
+  <img src="analysis/ana_[1-3]/Analysis 3/windVSoil.png" align="right"/>
 
