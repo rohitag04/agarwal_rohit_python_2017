@@ -271,4 +271,33 @@ against the annual means of temperatures.
    - Electricity supplied throughout the country through power plants is generated using similar means. 
    - The past decade has seen a steep rise in global temperatures and ancient and historical environmental studies have painted a grim picture revealing the current timeline to be the warmest.
    - The above plot reflects a magnanimous rise in wind power and solar power.
-   - The rise in weather can be clearly marked from 2012, when the mean was meandering about 0.65, to 2016, when the mean has mounted to 0.94.
+   - The rise in weather can be clearly marked from 2012, when the mean was meandering about 0.65, to 2016, when the mean has mounted to 0.94
+   
+ ### Step 2 (Standard deviation of weather, oil, solar and wind)
+  - Used the same Data Frame.
+  - Filtered on the year 2016.
+  - Removed all NAN values.
+  - Removed all Infinite values in order to clean Data Frame.
+  - Calculated Percentage change on Max Temp. and Adj Close column of weather & stock.
+  - Used seaborn distplot in order to show standard deviation.
+  
+  <img src="analysis/ana_[1-3]/Analysis 2/Daily Return.PNG" />
+  
+  ##### The Above plot describes:
+   - TThe comparable analyses of the standard deviation of weather, oil, solar and wind.
+   - Reflecting the gradual fall in the stock value of oil.
+   - while a consistent rise of stocks of solar and wind companies when compared with shifts in temperatures.
+   - When the sum of histogram values across the negative and positive deviation are compared a higher value (solar, wind and temperature) shows a tend towards rising value while a lower value (oil) elucidates a trend against the particular stock.
+   
+### Final Conclusion
+  - Colloquially, nations have pushed for greater utilization of non-renewable energy sources to prevent the environment from distruction which will see the trend followed in the near future.
+  - The rise of solar is consistently progressing, wind power consumption as a means to produce energy
+has shot through the roof.
+  - Oil meanwhile has simultaneously regressed.
+  
+##### Note-:
+  - This Comparision is done on Annual Mean Temperature & Stock.
+  
+  **Source Code:** [Analysis 2.ipynb]()
+   
+   
