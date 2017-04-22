@@ -331,7 +331,7 @@ Packages Used -:
   
   **Data Source:** [sotck.csv](https://github.com/rohitag04/agarwal_rohit_python_2017/blob/master/Final%20Exam/analysis/ana_%5B1-3%5D/Analysis%203/stock.csv)
   
-  <img src="analysis/ana_[1-3]/Analysis 3/oilVSSolar.png" width='300'/> <img src="analysis/ana_[1-3]/Analysis 3/solarVSwind.png" width='300'/> <img src="analysis/ana_[1-3]/Analysis 3/windVSoil.png" width='300'/>
+  <img src="analysis/ana_[1-3]/Analysis 3/oilVSSolar.png" /> <img src="analysis/ana_[1-3]/Analysis 3/solarVSwind.png" /> <img src="analysis/ana_[1-3]/Analysis 3/windVSoil.png" />
   
 #### RESULT FROM ALL  COORELATIONS
   - The correlation coefficient B/w OIL & SOLAR is 0.25.
@@ -345,4 +345,15 @@ Packages Used -:
 ### Creating a Pair Plot for an automatic visual analysis of all the comparisons.
 
 <img src="analysis/ana_[1-3]/Analysis 3/PairPlot.png" align='middle'/>
+
+#### From Above We can say,
+  -  A quick glance shows positive correlation between CVX and FSLR daily returns are rather high.
+
+
+#### NOW, will draw a correlation HeatMap plot with actual numerical values for the correlation between the stocks' daily return values.
+
+<img src="analysis/ana_[1-3]/Analysis 3/heatMapCoorelation.png" align='middle'/>
+
+#### Result from above coorealtion plot.
+   - Just like we suspected in our C0orelation Plot, we see here that CVX and FSLR had the strongest correlation of daily stock return. 
 
