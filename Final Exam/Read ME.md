@@ -331,11 +331,7 @@ Packages Used -:
   
   **Data Source:** [sotck.csv](https://github.com/rohitag04/agarwal_rohit_python_2017/blob/master/Final%20Exam/analysis/ana_%5B1-3%5D/Analysis%203/stock.csv)
   
-  <img src="analysis/ana_[1-3]/Analysis 3/oilVSSolar.png" align="left"/>
-  
-  <img src="analysis/ana_[1-3]/Analysis 3/solarVSwind.png" align="middle"/>
-   
-  <img src="analysis/ana_[1-3]/Analysis 3/windVSoil.png" align="left"/>
+  <img src="analysis/ana_[1-3]/Analysis 3/oilVSSolar.png" /> <img src="analysis/ana_[1-3]/Analysis 3/solarVSwind.png" /> <img src="analysis/ana_[1-3]/Analysis 3/windVSoil.png" />
   
 #### RESULT FROM ALL  COORELATIONS
   - The correlation coefficient B/w OIL & SOLAR is 0.25.
