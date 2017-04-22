@@ -86,7 +86,7 @@ __API 1__.
   
   **Data Source:** [VWS.csv](https://github.com/rohitag04/agarwal_rohit_python_2017/blob/master/Final%20Exam/extra/VWS.csv)
  
-  **Source Code:** https://github.com/JostineHo/mememoji_api
+  **Source Code:** [Data Collection](https://github.com/rohitag04/agarwal_rohit_python_2017/blob/master/Final%20Exam/analysis/ana_%5B1-3%5D.ipynb/Collect_Data.ipynb)
 
 
 ## 3. Data Storing
@@ -117,7 +117,7 @@ __Quandl API__.
    
    **Data Source:** [VWS.csv](https://github.com/rohitag04/agarwal_rohit_python_2017/edit/master/Final%20Exam/extra/VWS.csv)
    
-   **Source Code:** https://github.com/JostineHo/mememoji_api
+   **Source Code:** [Data Storing](https://github.com/rohitag04/agarwal_rohit_python_2017/blob/master/Final%20Exam/analysis/ana_%5B1-3%5D.ipynb/Collect_Data.ipynb)
    
    ## 4. Analysis 1
 ### Topic - Impact of Weather on Energy Sources.
@@ -242,7 +242,7 @@ Packages Used -:
 ##### Note-:
   - This Comparision is done on Annual Temperature.
   
-  **Source Code:** [Analysis 1.ipynb]()
+  **Source Code:** [Analysis 1.ipynb](https://github.com/rohitag04/agarwal_rohit_python_2017/blob/master/Final%20Exam/analysis/ana_%5B1-3%5D.ipynb/Final_Analysis_1.ipynb)
   
   
   ## 5. Analysis 2
@@ -307,7 +307,7 @@ has shot through the roof.
 ##### Note-:
   - This Comparision is done on Annual Mean Temperature & Stock.
   
-  **Source Code:** [Analysis 2.ipynb]()
+  **Source Code:** [Analysis 2.ipynb](https://github.com/rohitag04/agarwal_rohit_python_2017/blob/master/Final%20Exam/analysis/ana_%5B1-3%5D.ipynb/Final_Analysis_2.ipynb)
    
    
  ## 6. Analysis 3
@@ -381,6 +381,8 @@ Packages Used -:
 
 #### Result from above
   - It means that with 90% confidence, our worst daily loss for VWS will not exceed by 4.5%.
+  
+**Source Code:** [Analysis 3.ipynb](https://github.com/rohitag04/agarwal_rohit_python_2017/blob/master/Final%20Exam/analysis/ana_%5B1-3%5D.ipynb/Final_Analysis_3.ipynb)
   
 ### Final Conclusion
    - There is a coorelation between OIL & SOLAR.
