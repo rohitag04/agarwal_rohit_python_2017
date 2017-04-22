@@ -17,7 +17,7 @@
 6. [Analysis 3](#6-analysis-3)
       * [6.1 Daily percentage return of stocks of Oil & Solar & Wind](#61-percent-change)
       * [6.2 Analysed risk of the stock using VaR(Value at Risk](#62-risk-analysis)
-7. [Final Conclusion](#7-final-conclusion)
+7. [Final Conclusion of Study](#7-final-conclusion-of-study)
 8. [References](#8-references)
 
 ## 1. Idea
@@ -390,8 +390,14 @@ Packages Used -:
 **Source Code:** [Analysis 3.ipynb](http://nbviewer.jupyter.org/github/rohitag04/agarwal_rohit_python_2017/blob/42f1e937b4362fbb6a37acb1a42cf5b2e019e01e/Final%20Exam/analysis/ana_%5B1-3%5D.ipynb/Final_Analysis_3.ipynb)
 
 **Image Source:** [Images](https://github.com/rohitag04/agarwal_rohit_python_2017/tree/master/Final%20Exam/analysis/ana_%5B1-3%5D/Analysis%203)
+
+### Final Conclusion
+   - There is a coorelation between OIL & SOLAR.
+   - VWS is the best choice to buy.
+   - Daily Risk for VWS Stock will not increase 4.5 %.
+   - Buying 1 Stock has highest expected returns & Lowest Risks.
   
-## 7. Final Conclusion
+## 7. Final Conclusion of Study
    - There is a coorelation between OIL & SOLAR.
    - VWS is the best choice to buy.
    - Daily Risk for VWS Stock will not increase 4.5 %.
