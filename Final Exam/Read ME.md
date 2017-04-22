@@ -375,7 +375,7 @@ Packages Used -:
 - What is Empirical Quantile?
     - In statistics and the theory of probability, quantiles are cutpoints dividing the range of a probability distribution into contiguous intervals with equal probabilities, or dividing the observations in a sample in the same way. There is one less quantile than the number of groups created.
     
-<img src="analysis/ana_[1-3]/Analysis 3/Empirical Quantile.png" align='middle'/>
+<img src="analysis/ana_[1-3]/Analysis 3/Empirical Quantile.PNG" align='middle'/>
 
 #### Result from above
   - It means that with 90% confidence, our worst daily loss for VWS will not exceed by 4.5%.
