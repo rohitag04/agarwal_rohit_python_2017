@@ -120,7 +120,7 @@ __Quandl API__.
    **Source Code:** [Data Storing](https://github.com/rohitag04/agarwal_rohit_python_2017/blob/master/Final%20Exam/analysis/ana_%5B1-3%5D.ipynb/Collect_Data.ipynb)
    
    ## 4. Analysis 1
-## Topic - Impact of Weather on Energy Sources.
+### Topic - Impact of Weather on Energy Sources.
 
 Packages Used -:
 - OS
