@@ -399,10 +399,10 @@ Packages Used -:
   
 ## 7. Final Conclusion of Study
    - Weather Plays a major role in stock price.
-   - As Annual mean of weather is increasing every year by which Global Warming is increasing.
-   - At the same time uses of Renewable Energy is also increasing Annualy.
-   - Non Renewable energy is stagnant due to other usages.
-   - The past decade has seen a steep rise in global temperatures and ancient and historical environmental studies have painted a grim picture revealing the current timeline to be the warmest.
+   - Increasing Annual mean of weather indicates greater impact of Global Warming.
+   - Simultaneously utilization of Renewable Energy is also increasing Annualy.
+   - Utilization of Non Renewable energy is reduced and the stock price is stagnant due to other usages. 
+   - The past decade has seen a steep rise in global temperatures and ancient and historical environmental studies have painted a grim        picture revealing the current timeline to be the warmest.
    - The rise of solar is consistently progressing, wind power consumption as a means to produce energy has shot through the roof.
    - Oil meanwhile has simultaneously regressed.
    
